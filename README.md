@@ -36,6 +36,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [count_codepoints.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_codepoints.c) - 7 kyu - [Count of codepoints in a UTF-8 string](https://www.codewars.com/kata/68b8e7f8ce76e77dcfb77e8a)
 1. [counting_change_combinations.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/counting_change_combinations.c) - 4 kyu - [Counting Change Combinations](https://www.codewars.com/kata/541af676b589989aed0009e7)
 1. [count_ip_addresses.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_ip_addresses.c) - 5 kyu - [Count IP Addresses](https://www.codewars.com/kata/526989a41034285187000de4)
+1. [cuboids_volumes_difference.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cuboids_volumes_difference.c) - 8 kyu - [Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97)
 1. [decode_morse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/decode_morse.c) - 6 kyu - [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 1. [decode_roman.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/decode_roman.c) - 6 kyu - [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 1. [determinant.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/determinant.c) - 4 kyu - [Matrix Determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c)

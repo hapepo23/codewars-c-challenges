@@ -17,6 +17,7 @@ TARGETS = \
 	count_codepoints \
 	counting_change_combinations \
 	count_ip_addresses \
+	cuboids_volumes_difference \
 	decode_morse \
 	decode_roman \
 	determinant \
