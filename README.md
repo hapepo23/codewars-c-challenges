@@ -112,6 +112,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [square_matrix_multiplication.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/square_matrix_multiplication.c) - 5 kyu - [Square Matrix Multiplication](https://www.codewars.com/kata/5263a84ffcadb968b6000513)
 1. [strclr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/strclr.c) - 6 kyu - [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)
 1. [string_incrementer.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_incrementer.c) - 5 kyu - [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
+1. [string_reverse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_reverse.c) - 8 kyu - [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 1. [strings_mix.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/strings_mix.c) - 4 kyu - [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014)
 1. [substring_instance_count.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/substring_instance_count.c) - 5 kyu - [Return substring instance count - 2](https://www.codewars.com/kata/52190daefe9c702a460003dd)
 1. [sum_number_strings.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sum_number_strings.c) - 4 kyu - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)

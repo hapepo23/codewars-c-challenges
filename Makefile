@@ -93,6 +93,7 @@ TARGETS = \
 	square_matrix_multiplication \
 	strclr \
 	string_incrementer \
+	string_reverse \
 	strings_mix \
 	substring_instance_count \
 	sum_number_strings \
