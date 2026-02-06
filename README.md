@@ -10,7 +10,7 @@ They might not be the most sophisticated, but at least (mostly) easy to read and
 
 One challenge (Optical Character Recognition, ocr.c) passed all available tests, but ultimately failed some crazy tests that are, of course, unknown. Eventually, I lost interest in finding a better solution.
 
-After solving 100 C challenges, I reached rank "2 Kyu" and a placement among the top 10,000, which I am very happy about.
+On February 1, 2026, and after solving 99 C challenges, I reached rank "2 kyu" and a placement among the top 10,000, which I am very happy about.
 
 -----
 
@@ -123,17 +123,5 @@ The code I released here into the public domain may appear in third-party projec
 1. [write_out_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/write_out_numbers.c) - 5 kyu - [Write out numbers](https://www.codewars.com/kata/52724507b149fa120600031d)
 1. [your_own_printf.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/your_own_printf.c) - 5 kyu - [Write your own printf](https://www.codewars.com/kata/59480c92e3102df28f0000dd)
 1. [zonk_game.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/zonk_game.c) - 5 kyu - [Zonk game](https://www.codewars.com/kata/53837b8c94c170e55f000811)
-
------
-
-### My progress (as of February 3, 2026):
-
-[![badge](https://www.codewars.com/users/briskwalker/badges/large)](https://www.codewars.com/users/briskwalker)
-
-![Progress Feb 2026](progress_feb_26.png)
-
------
-
-[![Codewars](codewars-logo.png)](https://www.codewars.com)
 
 -----
