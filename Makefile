@@ -63,6 +63,7 @@ TARGETS = \
 	multply_number_strings \
 	my_strtok \
 	next_bigger_number \
+	non_even_substrings \
 	not_very_secure \
 	number_proper_fractions \
 	ocr \
