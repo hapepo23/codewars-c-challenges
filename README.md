@@ -48,6 +48,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<4 kyu> Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014) - Solution: [strings_mix.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/strings_mix.c)
 1. [<4 kyu> Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) - Solution: [sum_of_intervals.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sum_of_intervals.c)
 1. [<4 kyu> Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370) - Solution: [sum_number_strings.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sum_number_strings.c)
+1. [<4 kyu> The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d) - Solution: [the_observed_pin.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_observed_pin.c)
 1. [<5 kyu> Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161) - Solution: [base64.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/base64.c)
 1. [<5 kyu> Base64 Numeric Translator](https://www.codewars.com/kata/5632e12703e2037fa7000061) - Solution: [base64_numeric_translator.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/base64_numeric_translator.c)
 1. [<5 kyu> Big Integer Modulo](https://www.codewars.com/kata/546e0773fa8da2013200087a) - Solution: [big_integer_modulo.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/big_integer_modulo.c)
