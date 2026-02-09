@@ -36,6 +36,7 @@ TARGETS = \
 	get_count \
 	get_the_vowels \
 	grab_csv_columns \
+	grasshopper_summation \
 	greed_is_good \
 	hex_string_to_rgb \
 	high_and_low \
