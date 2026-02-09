@@ -125,6 +125,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) - Solution: [longest.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/longest.c)
 1. [<7 kyu> Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) - Solution: [get_count.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_count.c)
 1. [<8 kyu> Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97) - Solution: [cuboids_volumes_difference.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cuboids_volumes_difference.c)
+1. [<8 kyu> DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) - Solution: [dna_to_rna_conversion.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/dna_to_rna_conversion.c)
 1. [<8 kyu> Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96) - Solution: [bonus_time.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/bonus_time.c)
 1. [<8 kyu> Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) - Solution: [string_reverse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_reverse.c)
 

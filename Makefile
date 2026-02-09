@@ -23,6 +23,7 @@ TARGETS = \
 	determinant \
 	directions_reduction \
 	divide_number_strings \
+	dna_to_rna_conversion \
 	escape_the_maze \
 	eval_math_expression \
 	evaporator \
