@@ -24,6 +24,7 @@ TARGETS = \
 	directions_reduction \
 	divide_number_strings \
 	dna_to_rna_conversion \
+	equal_sides_of_array \
 	escape_the_maze \
 	eval_math_expression \
 	evaporator \
