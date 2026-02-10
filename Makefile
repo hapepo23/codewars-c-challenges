@@ -5,6 +5,7 @@ LDLIBS = -lm
 TARGETS = \
 	adding_big_numbers \
 	alphabet_position \
+	array_diff \
 	array_exchange \
 	base64 \
 	base64_numeric_translator \

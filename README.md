@@ -96,6 +96,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<5 kyu> Write out numbers](https://www.codewars.com/kata/52724507b149fa120600031d) - Solution: [write_out_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/write_out_numbers.c)
 1. [<5 kyu> Write your own printf](https://www.codewars.com/kata/59480c92e3102df28f0000dd) - Solution: [your_own_printf.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/your_own_printf.c)
 1. [<5 kyu> Zonk game](https://www.codewars.com/kata/53837b8c94c170e55f000811) - Solution: [zonk_game.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/zonk_game.c)
+1. [<6 kyu> Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) - Solution: [array_diff.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_diff.c)
 1. [<6 kyu> Array Exchange](https://www.codewars.com/kata/5353212e5ee40d4694001114) - Solution: [array_exchange.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_exchange.c)
 1. [<6 kyu> Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3) - Solution: [strclr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/strclr.c)
 1. [<6 kyu> Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e) - Solution: [decode_morse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/decode_morse.c)
