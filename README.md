@@ -99,6 +99,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) - Solution: [array_diff.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_diff.c)
 1. [<6 kyu> Array Exchange](https://www.codewars.com/kata/5353212e5ee40d4694001114) - Solution: [array_exchange.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_exchange.c)
 1. [<6 kyu> Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3) - Solution: [strclr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/strclr.c)
+1. [<6 kyu> Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) - Solution: [create_phone_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/create_phone_number.c)
 1. [<6 kyu> Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e) - Solution: [decode_morse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/decode_morse.c)
 1. [<6 kyu> Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) - Solution: [equal_sides_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/equal_sides_of_array.c)
 1. [<6 kyu> Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) - Solution: [find_the_odd_int.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_odd_int.c)

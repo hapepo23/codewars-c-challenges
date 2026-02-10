@@ -19,6 +19,7 @@ TARGETS = \
 	count_codepoints \
 	counting_change_combinations \
 	count_ip_addresses \
+	create_phone_number \
 	cuboids_volumes_difference \
 	decode_morse \
 	decode_roman \
