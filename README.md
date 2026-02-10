@@ -113,6 +113,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Run-length encoding](https://www.codewars.com/kata/546dba39fa8da224e8000467) - Solution: [run_length_encoding.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/run_length_encoding.c)
 1. [<6 kyu> Sentence Calculator](https://www.codewars.com/kata/5970fce80ed776b94000008b) - Solution: [letters_to_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/letters_to_numbers.c)
 1. [<6 kyu> Simple time difference](https://www.codewars.com/kata/5b76a34ff71e5de9db0000f2) - Solution: [simple_time_difference.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/simple_time_difference.c)
+1. [<6 kyu> Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) - Solution: [spin_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/spin_words.c)
 1. [<6 kyu> Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) - Solution: [digital_root.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/digital_root.c)
 1. [<6 kyu> Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) - Solution: [ten_minutes_walk.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ten_minutes_walk.c)
 1. [<6 kyu> Which day of the week does this date fall on?](https://www.codewars.com/kata/6908e2f710e75a2349b0e75b) - Solution: [find_date.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_date.c)
