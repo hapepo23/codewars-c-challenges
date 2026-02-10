@@ -121,6 +121,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Consecutive Vowels in a String](https://www.codewars.com/kata/62a933d6d6deb7001093de16) - Solution: [get_the_vowels.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_the_vowels.c)
 1. [<7 kyu> Count of codepoints in a UTF-8 string](https://www.codewars.com/kata/68b8e7f8ce76e77dcfb77e8a) - Solution: [count_codepoints.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_codepoints.c)
 1. [<7 kyu> Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f) - Solution: [evaporator.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/evaporator.c)
+1. [<7 kyu> Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) - Solution: [next_perfect_square.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/next_perfect_square.c)
 1. [<7 kyu> First Fibonacci](https://www.codewars.com/kata/6965d769930fb2eff921668f) - Solution: [first_fibonacci.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/first_fibonacci.c)
 1. [<7 kyu> Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) - Solution: [high_and_low.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/high_and_low.c)
 1. [<7 kyu> Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) - Solution: [sort_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sort_numbers.c)

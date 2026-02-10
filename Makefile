@@ -67,6 +67,7 @@ TARGETS = \
 	multply_number_strings \
 	my_strtok \
 	next_bigger_number \
+	next_perfect_square \
 	non_even_substrings \
 	not_very_secure \
 	number_proper_fractions \
