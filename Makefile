@@ -14,6 +14,7 @@ TARGETS = \
 	categorize_new_member \
 	clockwise_spiral \
 	common_denominators \
+	convert_string_to_array \
 	count_codepoints \
 	counting_change_combinations \
 	count_ip_addresses \
@@ -44,8 +45,8 @@ TARGETS = \
 	hex_string_to_rgb \
 	high_and_low \
 	human_readable_time \
-	integer_sqrt \
 	int32_to_ipv4 \
+	integer_sqrt \
 	irreducible_sum_of_rationals \
 	is_anagram \
 	is_ordered \
