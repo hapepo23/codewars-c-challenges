@@ -24,6 +24,7 @@ TARGETS = \
 	decode_morse \
 	decode_roman \
 	determinant \
+	digital_root \
 	directions_reduction \
 	divide_number_strings \
 	dna_to_rna_conversion \
