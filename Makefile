@@ -36,6 +36,7 @@ TARGETS = \
 	first_fibonacci \
 	format_duration \
 	get_count \
+	get_middle_character \
 	get_the_vowels \
 	grab_csv_columns \
 	grasshopper_summation \
