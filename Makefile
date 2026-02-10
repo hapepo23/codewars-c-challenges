@@ -48,6 +48,7 @@ TARGETS = \
 	irreducible_sum_of_rationals \
 	is_anagram \
 	is_ordered \
+	is_triangle \
 	is_valid_ip \
 	is_valid_ISBN_10 \
 	josephus_permutation \
