@@ -33,6 +33,7 @@ TARGETS = \
 	fibonacci_squares_perimeter \
 	find_date \
 	find_the_odd_int \
+	first_fibonacci \
 	format_duration \
 	get_count \
 	get_the_vowels \
