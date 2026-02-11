@@ -19,6 +19,7 @@ TARGETS = \
 	convert_string_to_array \
 	count_codepoints \
 	counting_change_combinations \
+	counting_duplicates \
 	count_ip_addresses \
 	create_phone_number \
 	cuboids_volumes_difference \

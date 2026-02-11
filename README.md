@@ -100,6 +100,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Array Exchange](https://www.codewars.com/kata/5353212e5ee40d4694001114) - Solution: [array_exchange.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_exchange.c)
 1. [<6 kyu> Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3) - Solution: [strclr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/strclr.c)
 1. [<6 kyu> Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) - Solution: [bit_counting.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/bit_counting.c)
+1. [<6 kyu> Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) - Solution: [counting_duplicates.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/counting_duplicates.c)
 1. [<6 kyu> Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) - Solution: [create_phone_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/create_phone_number.c)
 1. [<6 kyu> Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e) - Solution: [decode_morse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/decode_morse.c)
 1. [<6 kyu> Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) - Solution: [equal_sides_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/equal_sides_of_array.c)
