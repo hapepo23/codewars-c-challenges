@@ -4,6 +4,14 @@
 
 [![badge](https://www.codewars.com/users/briskwalker/badges/large)](https://www.codewars.com/users/briskwalker)
 
+-----
+
+### A word of warning
+
+**If you really want to learn C and improve through the challenges, don't just copy my solutions. You won't learn anything that way!**
+
+-----
+
 My solutions to some [**Codewars challenges**](https://www.codewars.com/users/briskwalker), programmed in **C**. 
 
 They might not be the most sophisticated, but at least (mostly) easy to read and understand. However, some are also implemented rather poorly. 
@@ -16,9 +24,9 @@ On February 1, 2026, and after solving 99 C challenges, I reached rank "2 kyu" a
 
 ### Security Notice
 
-The code I released here into the public domain may appear in third-party projects. I do not maintain, endorse, or have any affiliation with such projects. Any malicious or deceptive use is unauthorized and should be reported to the hosting platform.
+The code I released here into the public domain may appear in third-party projects. I do not maintain, endorse, or have any affiliation with such projects. Any malicious or deceptive use is unauthorized and should be reported to the hosting platform. 
 
-----
+-----
 
 ### List of all challenges I solved in C
 
