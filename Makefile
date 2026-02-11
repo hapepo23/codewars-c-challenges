@@ -10,6 +10,7 @@ TARGETS = \
 	base64 \
 	base64_numeric_translator \
 	big_integer_modulo \
+	bit_counting \
 	blackjack_scorer \
 	bonus_time \
 	categorize_new_member \
