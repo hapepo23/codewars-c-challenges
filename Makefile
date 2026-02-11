@@ -13,6 +13,7 @@ TARGETS = \
 	bit_counting \
 	blackjack_scorer \
 	bonus_time \
+	build_tower \
 	categorize_new_member \
 	clockwise_spiral \
 	common_denominators \
