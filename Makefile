@@ -38,6 +38,7 @@ TARGETS = \
 	factorial_trailing_zeros \
 	fibonacci_squares_perimeter \
 	find_date \
+	find_parity_outlier \
 	find_the_odd_int \
 	first_fibonacci \
 	format_duration \

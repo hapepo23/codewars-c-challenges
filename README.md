@@ -105,6 +105,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e) - Solution: [decode_morse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/decode_morse.c)
 1. [<6 kyu> Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) - Solution: [equal_sides_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/equal_sides_of_array.c)
 1. [<6 kyu> Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) - Solution: [find_the_odd_int.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_odd_int.c)
+1. [<6 kyu> Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) - Solution: [find_parity_outlier.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_parity_outlier.c)
 1. [<6 kyu> IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006) - Solution: [is_valid_ip.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_valid_ip.c)
 1. [<6 kyu> Irreducible Sum of Rationals](https://www.codewars.com/kata/5517fcb0236c8826940003c9) - Solution: [irreducible_sum_of_rationals.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/irreducible_sum_of_rationals.c)
 1. [<6 kyu> Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) - Solution: [multiples_of_3_or_5.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/multiples_of_3_or_5.c)
