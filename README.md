@@ -8,9 +8,9 @@ My solutions to some [**Codewars challenges**](https://www.codewars.com/users/br
 
 They might not be the most sophisticated, but at least (mostly) easy to read and understand. However, some are also implemented rather poorly. 
 
-One challenge (Optical Character Recognition, ocr.c) passed all available tests, but ultimately failed some crazy tests that are, of course, unknown. Eventually, I lost interest in finding a better solution.
+One challenge (Optical Character Recognition, ocr.c) passed all available tests, but ultimately failed some crazy test cases that are - of course - unknown. Eventually, I lost interest in finding a better solution.
 
-On February 1, 2026, and after solving 99 C challenges, I reached rank "2 kyu" and a placement among the top 10,000, which I am very happy about.
+On February 1, 2026, and after solving 99 C challenges, I reached rank "2 kyu" and a placement among the top 10,000, which I am very happy about. A few days later, my Codewars honor percentage is now within the top one percent.
 
 -----
 
