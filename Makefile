@@ -108,6 +108,7 @@ TARGETS = \
 	snakes_and_ladders \
 	sort_numbers \
 	sort_one_three_two \
+	sort_the_odd \
 	spin_words \
 	square_into_squares \
 	square_matrix_multiplication \
