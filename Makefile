@@ -25,6 +25,7 @@ TARGETS = \
 	cuboids_volumes_difference \
 	decode_morse \
 	decode_roman \
+	detect_pangram \
 	determinant \
 	digital_root \
 	directions_reduction \
