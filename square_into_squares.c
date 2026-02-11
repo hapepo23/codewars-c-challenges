@@ -13,8 +13,8 @@ https://www.codewars.com/kata/54eb33e5bc1a25440d000891
 
 typedef long long ll;
 
-ll sol[MAXN];
-int sol_len = 0;
+static ll sol[MAXN];
+static int sol_len = 0;
 
 bool search(ll remaining, ll max_base) {
   if (remaining == 0)
