@@ -42,6 +42,7 @@ TARGETS = \
 	find_date \
 	find_parity_outlier \
 	find_the_odd_int \
+	find_the_unique_number \
 	first_fibonacci \
 	format_duration \
 	get_count \
