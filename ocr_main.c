@@ -14,6 +14,8 @@ typedef struct {
   unsigned* pixels;
 } Image;
 
+const unsigned IMAGE_MAX = 255;
+
 char* ocr(Image* image);
 
 static int next_token(FILE* f, char* buf, int maxlen) {
@@ -181,5 +183,7 @@ int main(void) {
   test2("./ocr_files/img/ocr-demo3.pgm", "5670143292");
   test2("./ocr_files/img/ocr-demo4.pgm", "165");
   test2("./ocr_files/img/ocr-demo5.pgm", "8547777277946");
+  test2("./ocr_files/img/ocr-test1.pgm", "5");
+  test2("./ocr_files/img/ocr-test2.pgm", "3");
   return 0;
 }
