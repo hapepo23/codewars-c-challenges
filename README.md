@@ -131,6 +131,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) - Solution: [spin_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/spin_words.c)
 1. [<6 kyu> Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) - Solution: [digital_root.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/digital_root.c)
 1. [<6 kyu> Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) - Solution: [ten_minutes_walk.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ten_minutes_walk.c)
+1. [<6 kyu> Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) - Solution: [valid_braces.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/valid_braces.c)
 1. [<6 kyu> Which day of the week does this date fall on?](https://www.codewars.com/kata/6908e2f710e75a2349b0e75b) - Solution: [find_date.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_date.c)
 1. [<6 kyu> Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) - Solution: [who_likes_it.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/who_likes_it.c)
 1. [<6 kyu> Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) - Solution: [order_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/order_words.c)

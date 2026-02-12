@@ -123,6 +123,7 @@ TARGETS = \
 	the_observed_pin \
 	tic_tac_toe_checker \
 	tv_remote \
+	valid_braces \
 	weight_for_weight \
 	who_likes_it \
 	write_out_numbers \
