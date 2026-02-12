@@ -36,6 +36,7 @@ TARGETS = \
 	escape_the_maze \
 	eval_math_expression \
 	evaporator \
+	expanded_form \
 	factorial_decomposition \
 	factorial_trailing_zeros \
 	fibonacci_squares_perimeter \
