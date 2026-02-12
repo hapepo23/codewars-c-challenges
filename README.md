@@ -146,6 +146,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) - Solution: [high_and_low.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/high_and_low.c)
 1. [<7 kyu> Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b) - Solution: [is_triangle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_triangle.c)
 1. [<7 kyu> Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) - Solution: [sort_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sort_numbers.c)
+1. [<7 kyu> TV Remote](https://www.codewars.com/kata/5a5032f4fd56cb958e00007a) - Solution: [tv_remote.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/tv_remote.c)
 1. [<7 kyu> Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) - Solution: [longest.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/longest.c)
 1. [<7 kyu> Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) - Solution: [get_count.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_count.c)
 1. [<8 kyu> Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) - Solution: [convert_string_to_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/convert_string_to_array.c)

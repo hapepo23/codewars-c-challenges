@@ -122,6 +122,7 @@ TARGETS = \
 	ten_minutes_walk \
 	the_observed_pin \
 	tic_tac_toe_checker \
+	tv_remote \
 	weight_for_weight \
 	who_likes_it \
 	write_out_numbers \
