@@ -1,6 +1,6 @@
 /*
 2 kyu
-Optical character recognition (not definitively solved)
+Optical character recognition
 https://www.codewars.com/kata/5ec9e176721b990029ebce83
 */
 
@@ -185,5 +185,12 @@ int main(void) {
   test2("./ocr_files/img/ocr-demo5.pgm", "8547777277946");
   test2("./ocr_files/img/ocr-test1.pgm", "5");
   test2("./ocr_files/img/ocr-test2.pgm", "3");
+  test2("./ocr_files/img/ocr-test3.pgm", "895863134934595098");
+  test2("./ocr_files/img/ocr-test4.pgm", "682651137798393851");
+  test2("./ocr_files/img/ocr-test5.pgm", "095");
+  test2("./ocr_files/img/ocr-test6.pgm", "44");
+  test2("./ocr_files/img/ocr-test7.pgm", "278");
+  test2("./ocr_files/img/ocr-test8.pgm", "419");
+  test2("./ocr_files/img/ocr-test9.pgm", "895863134934595098");
   return 0;
 }

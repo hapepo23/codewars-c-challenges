@@ -16,8 +16,6 @@ My solutions to some [**Codewars challenges**](https://www.codewars.com/users/br
 
 They might not be the most sophisticated, but at least (mostly) easy to read and understand. However, some are also implemented rather poorly. 
 
-One challenge (Optical Character Recognition, ocr.c) passed all available tests, but ultimately failed some crazy test cases that are - of course - unknown. Eventually, I lost interest in finding a better solution.
-
 On February 1, 2026, and after solving 99 C challenges, I reached rank "2 kyu" and a placement among the top 10,000, which I am very happy about. A few days later, my Codewars honor percentage is now within the top one percent.
 
 -----
@@ -34,7 +32,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<2 kyu> 6 By 6 Skyscrapers](https://www.codewars.com/kata/5679d5a3f2272011d700000d) - Solution: [skyscrapers_6x6_puzzle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/skyscrapers_6x6_puzzle.c)
 1. [<2 kyu> Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005) - Solution: [eval_math_expression.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/eval_math_expression.c)
 1. [<2 kyu> Integer Square Root](https://www.codewars.com/kata/58a3fa665973c2a6e80000c4) - Solution: [integer_sqrt.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/integer_sqrt.c)
-1. [<2 kyu> Optical character recognition (not definitively solved)](https://www.codewars.com/kata/5ec9e176721b990029ebce83) - Solution: [ocr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ocr.c)
+1. [<2 kyu> Optical character recognition](https://www.codewars.com/kata/5ec9e176721b990029ebce83) - Solution: [ocr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ocr.c)
 1. [<3 kyu> Divide integers as strings](https://www.codewars.com/kata/58dea43ff98a7e2124000169) - Solution: [divide_number_strings.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/divide_number_strings.c)
 1. [<3 kyu> Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) - Solution: [make_spiral.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/make_spiral.c)
 1. [<4 kyu> 4 By 4 Skyscrapers](https://www.codewars.com/kata/5671d975d81d6c1c87000022) - Solution: [skyscrapers_4x4_puzzle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/skyscrapers_4x4_puzzle.c)

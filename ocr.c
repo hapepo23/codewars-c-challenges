@@ -1,16 +1,23 @@
 /*
 2 kyu
-Optical character recognition (not definitively solved)
+Optical character recognition
 https://www.codewars.com/kata/5ec9e176721b990029ebce83
 */
 
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 #define CHAR_MAX 200
 #define DEBUG false
 #define IMAGE_DEBUG false
+#define CASE_DEBUG ""
+#define BINARIZE_LIGHT_IMAGE_THRESHOLD 210
+#define BINARIZE_CORR_GT_THRESHOLD 80
+#define BINARIZE_CORR_LE_THRESHOLD 30
+#define POSSIBLY_WRONG_GT_PERCENTAGE 60.f
+#define MIN_WIDTH_HEIGHT 75 / 100
 
 extern const unsigned IMAGE_MAX;
 
@@ -31,86 +38,585 @@ static Digitbox digitboxes[CHAR_MAX];
 static int digitboxes_count;
 
 static float templates[10][8][5] = {{
-{ 0.917f, 1.000f, 1.000f, 1.000f, 0.889f, },
-{ 1.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 1.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 1.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 1.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 1.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 1.000f, 0.167f, 0.167f, 0.167f, 1.000f, },
-{ 0.778f, 1.000f, 1.000f, 1.000f, 0.722f, }, },
-{ { 0.972f, 1.000f, 1.000f, 0.000f, 0.000f, },
-{ 0.000f, 0.000f, 1.000f, 0.000f, 0.000f, },
-{ 0.000f, 0.000f, 1.000f, 0.000f, 0.000f, },
-{ 0.000f, 0.000f, 1.000f, 0.000f, 0.000f, },
-{ 0.000f, 0.000f, 1.000f, 0.000f, 0.611f, },
-{ 0.000f, 0.000f, 1.000f, 0.000f, 1.000f, },
-{ 0.139f, 0.167f, 1.000f, 0.167f, 1.000f, },
-{ 0.944f, 1.000f, 1.000f, 1.000f, 0.889f, }, },
-{ { 0.944f, 1.000f, 1.000f, 1.000f, 0.917f, },
-{ 0.000f, 0.000f, 0.000f, 0.000f, 0.833f, },
-{ 0.000f, 0.000f, 0.000f, 0.000f, 0.833f, },
-{ 0.417f, 0.667f, 0.667f, 0.667f, 0.944f, },
-{ 1.000f, 0.500f, 0.500f, 0.500f, 0.306f, },
-{ 1.000f, 0.000f, 0.000f, 0.000f, 0.000f, },
-{ 1.000f, 0.167f, 0.167f, 0.167f, 0.139f, },
-{ 0.972f, 1.000f, 1.000f, 1.000f, 0.944f, }, },
-{ { 0.972f, 1.000f, 1.000f, 1.000f, 0.917f, },
-{ 0.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 0.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 0.000f, 0.583f, 0.667f, 0.694f, 0.917f, },
-{ 0.000f, 0.306f, 0.333f, 0.444f, 0.972f, },
-{ 0.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 0.111f, 0.167f, 0.167f, 0.167f, 1.000f, },
-{ 1.000f, 1.000f, 1.000f, 1.000f, 0.778f, }, },
-{ { 0.944f, 0.167f, 0.000f, 0.111f, 0.028f, },
-{ 1.000f, 0.167f, 0.000f, 0.806f, 0.167f, },
-{ 1.000f, 0.167f, 0.000f, 0.833f, 0.167f, },
-{ 1.000f, 0.167f, 0.000f, 0.833f, 0.167f, },
-{ 1.000f, 0.750f, 0.667f, 0.944f, 0.556f, },
-{ 0.333f, 0.333f, 0.333f, 0.889f, 0.306f, },
-{ 0.000f, 0.000f, 0.000f, 0.833f, 0.167f, },
-{ 0.000f, 0.000f, 0.000f, 0.833f, 0.167f, }, },
-{ { 0.167f, 1.000f, 1.000f, 1.000f, 0.833f, },
-{ 0.167f, 0.833f, 0.000f, 0.000f, 0.000f, },
-{ 0.167f, 0.833f, 0.000f, 0.000f, 0.000f, },
-{ 0.167f, 0.944f, 0.667f, 0.667f, 0.333f, },
-{ 0.083f, 0.500f, 0.500f, 0.583f, 0.944f, },
-{ 0.000f, 0.000f, 0.000f, 0.167f, 1.000f, },
-{ 0.472f, 0.194f, 0.167f, 0.306f, 1.000f, },
-{ 0.639f, 0.917f, 1.000f, 1.000f, 0.611f, }, },
-{ { 0.972f, 0.444f, 0.000f, 0.000f, 0.000f, },
-{ 1.000f, 0.000f, 0.000f, 0.000f, 0.000f, },
-{ 1.000f, 0.000f, 0.000f, 0.000f, 0.000f, },
-{ 1.000f, 0.000f, 0.000f, 0.000f, 0.000f, },
-{ 1.000f, 0.694f, 0.667f, 0.667f, 0.667f, },
-{ 1.000f, 0.333f, 0.333f, 0.333f, 1.000f, },
-{ 1.000f, 0.167f, 0.167f, 0.167f, 1.000f, },
-{ 0.889f, 1.000f, 1.000f, 1.000f, 0.944f, }, },
-{ { 1.000f, 1.000f, 1.000f, 1.000f, 1.000f, },
-{ 0.306f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 0.000f, 0.000f, 0.000f, 0.028f, 1.000f, },
-{ 0.000f, 0.000f, 0.083f, 0.750f, 0.722f, },
-{ 0.000f, 0.000f, 0.833f, 0.639f, 0.028f, },
-{ 0.000f, 0.000f, 1.000f, 0.000f, 0.000f, },
-{ 0.000f, 0.000f, 1.000f, 0.000f, 0.000f, },
-{ 0.000f, 0.000f, 1.000f, 0.000f, 0.000f, }, },
-{ { 0.000f, 0.972f, 1.000f, 1.000f, 0.139f, },
-{ 0.000f, 1.000f, 0.000f, 0.833f, 0.167f, },
-{ 0.000f, 1.000f, 0.000f, 0.833f, 0.167f, },
-{ 0.333f, 1.000f, 0.667f, 0.944f, 0.556f, },
-{ 0.972f, 0.500f, 0.500f, 0.500f, 0.917f, },
-{ 1.000f, 0.000f, 0.000f, 0.000f, 0.833f, },
-{ 1.000f, 0.167f, 0.167f, 0.167f, 0.861f, },
-{ 0.639f, 1.000f, 1.000f, 1.000f, 0.778f, }, },
-{ { 0.944f, 1.000f, 1.000f, 1.000f, 0.889f, },
-{ 0.861f, 0.167f, 0.167f, 0.167f, 1.000f, },
-{ 0.889f, 0.333f, 0.333f, 0.333f, 1.000f, },
-{ 0.667f, 0.667f, 0.667f, 0.694f, 1.000f, },
-{ 0.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 0.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 0.000f, 0.000f, 0.000f, 0.000f, 1.000f, },
-{ 0.000f, 0.000f, 0.000f, 0.472f, 0.972f, }, }};
+                                        {
+                                            0.917f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.889f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.167f,
+                                            0.167f,
+                                            0.167f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.778f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.722f,
+                                        },
+                                    },
+                                    {
+                                        {
+                                            0.972f,
+                                            1.000f,
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                            0.000f,
+                                            0.611f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.139f,
+                                            0.167f,
+                                            1.000f,
+                                            0.167f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.944f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.889f,
+                                        },
+                                    },
+                                    {
+                                        {
+                                            0.944f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.917f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.833f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.833f,
+                                        },
+                                        {
+                                            0.417f,
+                                            0.667f,
+                                            0.667f,
+                                            0.667f,
+                                            0.944f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.500f,
+                                            0.500f,
+                                            0.500f,
+                                            0.306f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.167f,
+                                            0.167f,
+                                            0.167f,
+                                            0.139f,
+                                        },
+                                        {
+                                            0.972f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.944f,
+                                        },
+                                    },
+                                    {
+                                        {
+                                            0.972f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.917f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.583f,
+                                            0.667f,
+                                            0.694f,
+                                            0.917f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.306f,
+                                            0.333f,
+                                            0.444f,
+                                            0.972f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.111f,
+                                            0.167f,
+                                            0.167f,
+                                            0.167f,
+                                            1.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.778f,
+                                        },
+                                    },
+                                    {
+                                        {
+                                            0.944f,
+                                            0.167f,
+                                            0.000f,
+                                            0.111f,
+                                            0.028f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.167f,
+                                            0.000f,
+                                            0.806f,
+                                            0.167f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.167f,
+                                            0.000f,
+                                            0.833f,
+                                            0.167f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.167f,
+                                            0.000f,
+                                            0.833f,
+                                            0.167f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.750f,
+                                            0.667f,
+                                            0.944f,
+                                            0.556f,
+                                        },
+                                        {
+                                            0.333f,
+                                            0.333f,
+                                            0.333f,
+                                            0.889f,
+                                            0.306f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.833f,
+                                            0.167f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.833f,
+                                            0.167f,
+                                        },
+                                    },
+                                    {
+                                        {
+                                            0.167f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.833f,
+                                        },
+                                        {
+                                            0.167f,
+                                            0.833f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            0.167f,
+                                            0.833f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            0.167f,
+                                            0.944f,
+                                            0.667f,
+                                            0.667f,
+                                            0.333f,
+                                        },
+                                        {
+                                            0.083f,
+                                            0.500f,
+                                            0.500f,
+                                            0.583f,
+                                            0.944f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.167f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.472f,
+                                            0.194f,
+                                            0.167f,
+                                            0.306f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.639f,
+                                            0.917f,
+                                            1.000f,
+                                            1.000f,
+                                            0.611f,
+                                        },
+                                    },
+                                    {
+                                        {
+                                            0.972f,
+                                            0.444f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.694f,
+                                            0.667f,
+                                            0.667f,
+                                            0.667f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.333f,
+                                            0.333f,
+                                            0.333f,
+                                            1.000f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.167f,
+                                            0.167f,
+                                            0.167f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.889f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.944f,
+                                        },
+                                    },
+                                    {
+                                        {
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.306f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.028f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.083f,
+                                            0.750f,
+                                            0.722f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.833f,
+                                            0.639f,
+                                            0.028f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                        },
+                                    },
+                                    {
+                                        {
+                                            0.000f,
+                                            0.972f,
+                                            1.000f,
+                                            1.000f,
+                                            0.139f,
+                                        },
+                                        {
+                                            0.000f,
+                                            1.000f,
+                                            0.000f,
+                                            0.833f,
+                                            0.167f,
+                                        },
+                                        {
+                                            0.000f,
+                                            1.000f,
+                                            0.000f,
+                                            0.833f,
+                                            0.167f,
+                                        },
+                                        {
+                                            0.333f,
+                                            1.000f,
+                                            0.667f,
+                                            0.944f,
+                                            0.556f,
+                                        },
+                                        {
+                                            0.972f,
+                                            0.500f,
+                                            0.500f,
+                                            0.500f,
+                                            0.917f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.833f,
+                                        },
+                                        {
+                                            1.000f,
+                                            0.167f,
+                                            0.167f,
+                                            0.167f,
+                                            0.861f,
+                                        },
+                                        {
+                                            0.639f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.778f,
+                                        },
+                                    },
+                                    {
+                                        {
+                                            0.944f,
+                                            1.000f,
+                                            1.000f,
+                                            1.000f,
+                                            0.889f,
+                                        },
+                                        {
+                                            0.861f,
+                                            0.167f,
+                                            0.167f,
+                                            0.167f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.889f,
+                                            0.333f,
+                                            0.333f,
+                                            0.333f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.667f,
+                                            0.667f,
+                                            0.667f,
+                                            0.694f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            1.000f,
+                                        },
+                                        {
+                                            0.000f,
+                                            0.000f,
+                                            0.000f,
+                                            0.472f,
+                                            0.972f,
+                                        },
+                                    }};
 
 static int usecase;  // only for DEBUG
 
@@ -154,10 +660,10 @@ static void binarize(Image* img) {
   }
   unsigned pixavg;
   unsigned pixavg_orig = pixsum / (img->height * img->width);
-  if (pixavg_orig > 220)
-    pixavg = pixavg_orig - 60;
+  if (pixavg_orig > BINARIZE_LIGHT_IMAGE_THRESHOLD)
+    pixavg = pixavg_orig - BINARIZE_CORR_GT_THRESHOLD;
   else
-    pixavg = pixavg_orig - 30;
+    pixavg = pixavg_orig - BINARIZE_CORR_LE_THRESHOLD;
   if (DEBUG)
     printf("binarize: pixavg_orig = %u, pixavg = %u\n", pixavg_orig, pixavg);
   for (int y = 0; y < img->height; y++) {
@@ -183,7 +689,7 @@ static void detect_digitboxes(Image* img) {
       digitboxes[digitboxes_count - 1].xleft = x;
     } else if (found && avg > 254) {
       found = false;
-      digitboxes[digitboxes_count - 1].xright = x;
+      digitboxes[digitboxes_count - 1].xright = x - 1;
       digitboxes[digitboxes_count - 1].width =
           digitboxes[digitboxes_count - 1].xright -
           digitboxes[digitboxes_count - 1].xleft + 1;
@@ -207,10 +713,11 @@ static void detect_digitboxes(Image* img) {
         found = true;
         digitboxes[k].ytop = y;
       } else if (found && avg > 254) {
-        digitboxes[k].ybottom = y;
+        digitboxes[k].ybottom = y - 1;
         digitboxes[k].height = digitboxes[k].ybottom - digitboxes[k].ytop + 1;
         found = false;
-        break;
+        if (digitboxes[k].height > digitboxes[k].width)
+          break;
       }
     }
     if (found) {
@@ -224,8 +731,8 @@ static void detect_digitboxes(Image* img) {
     minheight += digitboxes[k].height;
     digitboxes[k].active = false;
   }
-  minwidth = minwidth / digitboxes_count * 7 / 10;
-  minheight = minheight / digitboxes_count * 7 / 10;
+  minwidth = minwidth / digitboxes_count * MIN_WIDTH_HEIGHT;
+  minheight = minheight / digitboxes_count * MIN_WIDTH_HEIGHT;
   for (int k = 0; k < digitboxes_count; k++) {
     if (digitboxes[k].width > minwidth && digitboxes[k].height > minheight) {
       digitboxes[k].active = true;
@@ -329,10 +836,10 @@ static int classify(int k, bool* maybe_wrong) {
   }
   avg_dist = avg_dist / 10;
   float percentage = best_d / avg_dist * 100.f;
+  *maybe_wrong = percentage > POSSIBLY_WRONG_GT_PERCENTAGE;
   if (DEBUG)
-    printf("BEST = %d = %f (%f %% of avg: %f)\n", best, best_d, percentage,
-           avg_dist);
-  *maybe_wrong = (percentage > 55.f || avg_dist < 5.f);
+    printf("BEST = %d = %f (%f %% of avg: %f) %s\n", best, best_d, percentage,
+           avg_dist, (*maybe_wrong) ? "--> WRONG??" : "");
   return best;
 }
 
@@ -349,12 +856,16 @@ char* ocr(Image* image) {
   calc_digit_features();
   for (int k = 0; k < digitboxes_count; k++) {
     if (digitboxes[k].active) {
-      result[resultindex++] = (char)('0' + classify(k, &maybe_wrong));
+      int c = classify(k, &maybe_wrong);
+      if (!maybe_wrong)
+        result[resultindex++] = (char)('0' + c);
       free(digitboxes[k].image_30x48->pixels);
       free(digitboxes[k].image_30x48);
       free(digitboxes[k].image_copy->pixels);
       free(digitboxes[k].image_copy);
     }
   }
+  if (strcmp(result, CASE_DEBUG) == 0)
+    debug_image_export(image);
   return result;
 }
