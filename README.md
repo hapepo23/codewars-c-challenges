@@ -22,7 +22,7 @@ On February 1, 2026, and after solving about hundred Codewars C challenges in fo
 
 The code I released here into the public domain may appear in third-party projects. I do not maintain, endorse, or have any affiliation with such projects. Any malicious or deceptive use is unauthorized and should be reported to the hosting platform. 
 
-My published Codewars solutions in this repository have been being copied and misused in other GitHub repositories as a kind of honeypot to trick users into downloading malicious software. So please be careful! I have reported this to GitHub, but unfortunately, GitHub remains inactive and has not removed this type of abuse until now.
+My published Codewars solutions in this repository have been copied and misused in other GitHub repositories as a kind of honeypot to trick users into downloading malicious software. So please be careful! I have reported this to GitHub, but unfortunately, GitHub remains inactive and has not removed this type of abuse until now.
 
 -----
 
