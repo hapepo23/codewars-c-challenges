@@ -92,6 +92,7 @@ TARGETS = \
 	prime_time \
 	product_consecutive_fibnum \
 	range_extraction \
+	ranking_poker_hands \
 	rational_arithmetic \
 	rectangle_rotation \
 	rgb_to_hex \

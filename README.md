@@ -47,6 +47,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<4 kyu> Ordered set](https://www.codewars.com/kata/5c0c5ec84e8f1804b9000296) - Solution: [ordered_set.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ordered_set.c)
 1. [<4 kyu> parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) - Solution: [parseint-reloaded.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/parseint-reloaded.c)
 1. [<4 kyu> Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) - Solution: [range_extraction.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/range_extraction.c)
+1. [<4 kyu> Ranking Poker Hands](https://www.codewars.com/kata/5739174624fc28e188000465) - Solution: [ranking_poker_hands.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ranking_poker_hands.c)
 1. [<4 kyu> Rectangle Rotation](https://www.codewars.com/kata/5886e082a836a691340000c3) - Solution: [rectangle_rotation.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/rectangle_rotation.c)
 1. [<4 kyu> Roman Numerals Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003) - Solution: [roman_num_helper.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/roman_num_helper.c)
 1. [<4 kyu> Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) - Solution: [snail_sort.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/snail_sort.c)
