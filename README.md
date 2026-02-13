@@ -1,4 +1,4 @@
-# Codewars Challenges
+# My solutions to Codewars challenges - programmed in C. 
 
 ![C](C.png)
 
@@ -12,17 +12,17 @@
 
 -----
 
-My solutions to some [**Codewars challenges**](https://www.codewars.com/users/briskwalker), programmed in **C**. 
+My solutions to some [**Codewars challenges**](https://www.codewars.com/users/briskwalker), programmed in **C**, might not be the most sophisticated, but at least mostly easy to read and understand. However, a few are implemented rather poorly. 
 
-They might not be the most sophisticated, but at least (mostly) easy to read and understand. However, some are also implemented rather poorly. 
-
-On February 1, 2026, and after solving 99 C challenges, I reached rank "2 kyu" and a placement among the top 10,000, which I am very happy about. A few days later, my Codewars honor percentage is now within the top one percent.
+On February 1, 2026, and after solving about hundred Codewars C challenges in four weeks, I reached rank "2 kyu" and a placement among the top 10,000, which I am very happy about. A few days later, my Codewars honor percentage is now within the top one percent.
 
 -----
 
-### Security Notice
+### !! Security Notice !! 
 
 The code I released here into the public domain may appear in third-party projects. I do not maintain, endorse, or have any affiliation with such projects. Any malicious or deceptive use is unauthorized and should be reported to the hosting platform. 
+
+My published Codewars solutions in this repository have been being copied and misused in other GitHub repositories as a kind of honeypot to trick users into downloading malicious software. So please be careful! I have reported this to GitHub, but unfortunately, GitHub remains inactive and has not removed this type of abuse until now.
 
 -----
 
