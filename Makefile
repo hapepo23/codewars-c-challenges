@@ -121,6 +121,7 @@ TARGETS = \
 	string_incrementer \
 	string_reverse \
 	strings_mix \
+	string_to_camel_case \
 	substring_instance_count \
 	sum_number_strings \
 	sum_of_intervals \

@@ -108,6 +108,7 @@ My published Codewars solutions in this repository have been copied and misused 
 1. [<6 kyu> Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3) - Solution: [strclr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/strclr.c)
 1. [<6 kyu> Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) - Solution: [bit_counting.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/bit_counting.c)
 1. [<6 kyu> Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) - Solution: [build_tower.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/build_tower.c)
+1. [<6 kyu> CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196) - Solution: [string_to_camel_case.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_to_camel_case.c)
 1. [<6 kyu> Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091) - Solution: [count_characters.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_characters.c)
 1. [<6 kyu> Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) - Solution: [counting_duplicates.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/counting_duplicates.c)
 1. [<6 kyu> Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) - Solution: [create_phone_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/create_phone_number.c)
