@@ -18,6 +18,7 @@ TARGETS = \
 	clockwise_spiral \
 	common_denominators \
 	convert_string_to_array \
+	count_characters \
 	count_codepoints \
 	counting_change_combinations \
 	counting_duplicates \
