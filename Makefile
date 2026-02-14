@@ -79,7 +79,8 @@ TARGETS = \
 	merged_string_checker \
 	move_zeros \
 	multiples_of_3_or_5 \
-	multply_number_strings \
+	multiplication_table \
+	multiply_number_strings \
 	my_strtok \
 	next_bigger_number \
 	next_perfect_square \
