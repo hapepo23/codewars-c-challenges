@@ -99,6 +99,7 @@ My published Codewars solutions in this repository have been copied and misused 
 1. [<5 kyu> Strings: implement your own "strtok" function!](https://www.codewars.com/kata/5806203dc2799821cb000293) - Solution: [my_strtok.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/my_strtok.c)
 1. [<5 kyu> The Clockwise Spiral](https://www.codewars.com/kata/536a155256eb459b8700077e) - Solution: [clockwise_spiral.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/clockwise_spiral.c)
 1. [<5 kyu> Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335) - Solution: [tic_tac_toe_checker.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/tic_tac_toe_checker.c)
+1. [<5 kyu> Value of x](https://www.codewars.com/kata/614ac445f13ead000f91b4d0) - Solution: [value_of_x.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/value_of_x.c)
 1. [<5 kyu> Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc) - Solution: [weight_for_weight.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/weight_for_weight.c)
 1. [<5 kyu> Write out numbers](https://www.codewars.com/kata/52724507b149fa120600031d) - Solution: [write_out_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/write_out_numbers.c)
 1. [<5 kyu> Write your own printf](https://www.codewars.com/kata/59480c92e3102df28f0000dd) - Solution: [your_own_printf.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/your_own_printf.c)
