@@ -58,6 +58,7 @@ My published Codewars solutions in this repository have been copied and misused 
 1. [<4 kyu> The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d) - Solution: [the_observed_pin.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_observed_pin.c)
 1. [<5 kyu> Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161) - Solution: [base64.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/base64.c)
 1. [<5 kyu> Base64 Numeric Translator](https://www.codewars.com/kata/5632e12703e2037fa7000061) - Solution: [base64_numeric_translator.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/base64_numeric_translator.c)
+1. [<5 kyu> Beeramid](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1) - Solution: [beeramid.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/beeramid.c)
 1. [<5 kyu> Big Integer Modulo](https://www.codewars.com/kata/546e0773fa8da2013200087a) - Solution: [big_integer_modulo.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/big_integer_modulo.c)
 1. [<5 kyu> Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe) - Solution: [blackjack_scorer.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/blackjack_scorer.c)
 1. [<5 kyu> Common Denominators](https://www.codewars.com/kata/54d7660d2daf68c619000d95) - Solution: [common_denominators.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/common_denominators.c)

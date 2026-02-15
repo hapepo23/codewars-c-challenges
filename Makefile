@@ -9,6 +9,7 @@ TARGETS = \
 	array_exchange \
 	base64 \
 	base64_numeric_translator \
+	beeramid \
 	big_integer_modulo \
 	bit_counting \
 	blackjack_scorer \
