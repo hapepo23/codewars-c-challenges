@@ -105,6 +105,7 @@ TARGETS = \
 	roman_num_helper \
 	rot13 \
 	rotate \
+	rotate_matrix_counter_clockwise \
 	run_length_encoding \
 	scramble \
 	simple_time_difference \
