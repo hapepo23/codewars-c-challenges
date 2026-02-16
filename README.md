@@ -123,6 +123,7 @@ My published Codewars solutions in this repository have been copied and misused 
 1. [<6 kyu> IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006) - Solution: [is_valid_ip.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_valid_ip.c)
 1. [<6 kyu> Irreducible Sum of Rationals](https://www.codewars.com/kata/5517fcb0236c8826940003c9) - Solution: [irreducible_sum_of_rationals.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/irreducible_sum_of_rationals.c)
 1. [<6 kyu> Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) - Solution: [is_prime.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_prime.c)
+1. [<6 kyu> Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f) - Solution: [matrix_addition.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/matrix_addition.c)
 1. [<6 kyu> Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) - Solution: [multiples_of_3_or_5.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/multiples_of_3_or_5.c)
 1. [<6 kyu> Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) - Solution: [multiplication_table.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/multiplication_table.c)
 1. [<6 kyu> Non-even substrings](https://www.codewars.com/kata/59da47fa27ee00a8b90000b4) - Solution: [non_even_substrings.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/non_even_substrings.c)
