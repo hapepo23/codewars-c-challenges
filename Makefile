@@ -130,6 +130,7 @@ TARGETS = \
 	ten_minutes_walk \
 	the_observed_pin \
 	tic_tac_toe_checker \
+	transpose_matrix \
 	tv_remote \
 	valid_braces \
 	value_of_x \
