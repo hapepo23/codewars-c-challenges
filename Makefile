@@ -118,6 +118,7 @@ TARGETS = \
 	sort_one_three_two \
 	sort_the_odd \
 	spin_words \
+	square_digits \
 	square_into_squares \
 	square_matrix_multiplication \
 	strclr \
