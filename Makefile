@@ -130,6 +130,7 @@ TARGETS = \
 	substring_instance_count \
 	sum_number_strings \
 	sum_of_intervals \
+	sum_two_smallest_numbers \
 	ten_minutes_walk \
 	the_observed_pin \
 	tic_tac_toe_checker \
