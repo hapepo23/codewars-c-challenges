@@ -75,6 +75,7 @@ TARGETS = \
 	letters_to_numbers \
 	longest \
 	make_spiral \
+	maskify \
 	matrix_addition \
 	maximum_subarray_sum \
 	mean_square_error \
