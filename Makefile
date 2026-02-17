@@ -95,6 +95,7 @@ TARGETS = \
 	ordered_set \
 	order_words \
 	parseint-reloaded \
+	parsing_goto_statements \
 	prime_factor_decomposition \
 	prime_time \
 	product_consecutive_fibnum \
