@@ -122,6 +122,7 @@ TARGETS = \
 	square_into_squares \
 	square_matrix_multiplication \
 	strclr \
+	string_ends_with \
 	string_incrementer \
 	string_reverse \
 	strings_mix \
