@@ -11,6 +11,7 @@ TARGETS = \
 	base64_numeric_translator \
 	beeramid \
 	big_integer_modulo \
+	binary_addition \
 	bit_counting \
 	blackjack_scorer \
 	bonus_time \

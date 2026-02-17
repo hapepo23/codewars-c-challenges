@@ -146,6 +146,7 @@ My published Codewars solutions in this repository have been copied and misused 
 1. [<6 kyu> Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) - Solution: [order_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/order_words.c)
 1. [<7 kyu> Alphabetically ordered](https://www.codewars.com/kata/5a8059b1fd577709860000f6) - Solution: [is_ordered.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_ordered.c)
 1. [<7 kyu> Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) - Solution: [is_anagram.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_anagram.c)
+1. [<7 kyu> Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139) - Solution: [binary_addition.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/binary_addition.c)
 1. [<7 kyu> Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) - Solution: [categorize_new_member.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/categorize_new_member.c)
 1. [<7 kyu> Consecutive Vowels in a String](https://www.codewars.com/kata/62a933d6d6deb7001093de16) - Solution: [get_the_vowels.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_the_vowels.c)
 1. [<7 kyu> Count of codepoints in a UTF-8 string](https://www.codewars.com/kata/68b8e7f8ce76e77dcfb77e8a) - Solution: [count_codepoints.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_codepoints.c)
