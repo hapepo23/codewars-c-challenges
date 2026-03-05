@@ -14,7 +14,7 @@
 
 My solutions to some [**Codewars challenges**](https://www.codewars.com/users/briskwalker), programmed in **C**, might not be the most sophisticated, but at least mostly easy to read and understand. However, a few are implemented rather poorly. 
 
-On February 1, 2026, and after solving about hundred Codewars C challenges in four weeks, I reached rank "2 kyu" and a placement among the top 10,000, which I am very happy about. A few days later, my Codewars honor percentage is now within the top one percent.
+Current C rank (since February 1, 2026): 2 kyu.
 
 -----
 
