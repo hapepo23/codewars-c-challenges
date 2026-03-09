@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -std=c18 -Wall -Wextra -O0 -g
+CFLAGS = -std=c18 -Wall -Wextra -O2
 LDLIBS = -lm
 
 TARGETS = \
