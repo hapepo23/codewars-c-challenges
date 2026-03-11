@@ -18,6 +18,13 @@ Current C rank (since February 1, 2026): 2 kyu.
 
 -----
 
+See also:
+
+- [My solutions to Codewars challenges - programmed in C++](https://github.com/hapepo23/codewars-cplusplus-challenges)
+- [My solutions to Codewars challenges - programmed in Pascal](https://github.com/hapepo23/codewars-pascal-challenges)
+
+-----
+
 ### !! Security Notice !! 
 
 The code I released here into the public domain may appear in third-party projects. I do not maintain, endorse, or have any affiliation with such projects. Any malicious or deceptive use is unauthorized and should be reported to the hosting platform. 
