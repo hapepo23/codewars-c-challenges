@@ -166,6 +166,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) - Solution: [high_and_low.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/high_and_low.c)
 1. [<7 kyu> Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b) - Solution: [is_triangle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_triangle.c)
 1. [<7 kyu> Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) - Solution: [reverse_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_words.c)
+1. [<7 kyu> Simple string reversal II](https://www.codewars.com/kata/5a8d1c82373c2e099d0000ac) - Solution: [reverse_between.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_between.c)
 1. [<7 kyu> Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) - Solution: [sort_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sort_numbers.c)
 1. [<7 kyu> Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) - Solution: [square_digits.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/square_digits.c)
 1. [<7 kyu> String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) - Solution: [string_ends_with.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_ends_with.c)
