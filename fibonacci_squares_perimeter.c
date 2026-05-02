@@ -30,9 +30,11 @@ static void fib(ull n, ull* fibn, ull* fibnp1) {
 
 ull perimeter(int n) {
   ull fibn, fibnp1, sum = 0ull;
-  for (ull i = 1ull; i <= ((ull)n + 1ull); i++) {
+  for (int i = 1; i <= n + 1; i += 2) {
     fib((ull)i, &fibn, &fibnp1);
-    sum += fibn * 4ull;
+    sum += fibn;
+    if (i <= n)
+      sum += fibnp1;
   }
-  return sum;
+  return sum * 4ull;
 }
