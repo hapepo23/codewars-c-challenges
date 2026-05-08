@@ -165,6 +165,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) - Solution: [get_middle_character.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_middle_character.c)
 1. [<7 kyu> Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) - Solution: [high_and_low.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/high_and_low.c)
 1. [<7 kyu> Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b) - Solution: [is_triangle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_triangle.c)
+1. [<7 kyu> Minimize Sum Of Array](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) - Solution: [minimize_sum_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/minimize_sum_of_array.c)
 1. [<7 kyu> Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) - Solution: [reverse_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_words.c)
 1. [<7 kyu> Simple string reversal II](https://www.codewars.com/kata/5a8d1c82373c2e099d0000ac) - Solution: [reverse_between.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_between.c)
 1. [<7 kyu> Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) - Solution: [sort_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sort_numbers.c)
