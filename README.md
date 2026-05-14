@@ -170,6 +170,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b) - Solution: [is_triangle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_triangle.c)
 1. [<7 kyu> Maximum Gap](https://www.codewars.com/kata/5a7893ef0025e9eb50000013) - Solution: [maximum_gap.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maximum_gap.c)
 1. [<7 kyu> Minimize Sum Of Array](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) - Solution: [minimize_sum_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/minimize_sum_of_array.c)
+1. [<7 kyu> Nth Smallest Element](https://www.codewars.com/kata/5a512f6a80eba857280000fc) - Solution: [nth_smallest_element.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/nth_smallest_element.c)
 1. [<7 kyu> Product Of Maximums Of Array](https://www.codewars.com/kata/5a63948acadebff56f000018) - Solution: [product_of_maximums_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/product_of_maximums_of_array.c)
 1. [<7 kyu> Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) - Solution: [reverse_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_words.c)
 1. [<7 kyu> Simple string reversal II](https://www.codewars.com/kata/5a8d1c82373c2e099d0000ac) - Solution: [reverse_between.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_between.c)
