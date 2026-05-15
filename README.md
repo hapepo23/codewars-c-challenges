@@ -165,6 +165,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f) - Solution: [evaporator.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/evaporator.c)
 1. [<7 kyu> Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) - Solution: [next_perfect_square.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/next_perfect_square.c)
 1. [<7 kyu> First Fibonacci](https://www.codewars.com/kata/6965d769930fb2eff921668f) - Solution: [first_fibonacci.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/first_fibonacci.c)
+1. [<7 kyu> Form The Minimum](https://www.codewars.com/kata/5a512f6a80eba857280000fc) - Solution: [form_the_minimum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/form_the_minimum.c)
 1. [<7 kyu> Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) - Solution: [get_middle_character.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_middle_character.c)
 1. [<7 kyu> Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) - Solution: [high_and_low.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/high_and_low.c)
 1. [<7 kyu> Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b) - Solution: [is_triangle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_triangle.c)
