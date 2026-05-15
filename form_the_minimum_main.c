@@ -1,7 +1,7 @@
 /*
 7 kyu
 Form The Minimum
-https://www.codewars.com/kata/5a512f6a80eba857280000fc
+https://www.codewars.com/kata/5ac6932b2f317b96980000ca
 */
 
 #include <stddef.h>
