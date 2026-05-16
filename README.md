@@ -172,6 +172,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b) - Solution: [is_triangle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_triangle.c)
 1. [<7 kyu> Maximum Gap](https://www.codewars.com/kata/5a7893ef0025e9eb50000013) - Solution: [maximum_gap.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maximum_gap.c)
 1. [<7 kyu> Maximum Product](https://www.codewars.com/kata/5a4138acf28b82aa43000117) - Solution: [maximum_product.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maximum_product.c)
+1. [<7 kyu> Maximum Triplet Sum](https://www.codewars.com/kata/5aa1bcda373c2eb596000112) - Solution: [maximum_triplet_sum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maximum_triplet_sum.c)
 1. [<7 kyu> Minimize Sum Of Array](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) - Solution: [minimize_sum_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/minimize_sum_of_array.c)
 1. [<7 kyu> Nth Smallest Element](https://www.codewars.com/kata/5a512f6a80eba857280000fc) - Solution: [nth_smallest_element.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/nth_smallest_element.c)
 1. [<7 kyu> Product Array](https://www.codewars.com/kata/5a905c2157c562994900009d) - Solution: [product_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/product_array.c)
