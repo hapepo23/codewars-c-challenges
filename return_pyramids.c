@@ -1,7 +1,7 @@
 /*
-8 kyu
-Area of a Square
-https://www.codewars.com/kata/5748838ce2fab90b86001b1a
+7 kyu
+Return pyramids
+https://www.codewars.com/kata/5a1c28f9c9fc0ef2e900013b
 */
 
 #include <stdio.h>
