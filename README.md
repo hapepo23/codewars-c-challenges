@@ -153,6 +153,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) - Solution: [valid_braces.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/valid_braces.c)
 1. [<6 kyu> Which day of the week does this date fall on?](https://www.codewars.com/kata/6908e2f710e75a2349b0e75b) - Solution: [find_date.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_date.c)
 1. [<6 kyu> Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) - Solution: [who_likes_it.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/who_likes_it.c)
+1. [<6 kyu> Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746) - Solution: [word_a10n.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/word_a10n.c)
 1. [<6 kyu> Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245) - Solution: [expanded_form.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/expanded_form.c)
 1. [<6 kyu> Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) - Solution: [order_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/order_words.c)
 1. [<7 kyu> Alphabetically ordered](https://www.codewars.com/kata/5a8059b1fd577709860000f6) - Solution: [is_ordered.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_ordered.c)
