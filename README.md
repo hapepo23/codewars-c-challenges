@@ -188,6 +188,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) - Solution: [longest.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/longest.c)
 1. [<7 kyu> Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) - Solution: [get_count.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_count.c)
 1. [<8 kyu> Area of a Square](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) - Solution: [area_of_a_square.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/area_of_a_square.c)
+1. [<8 kyu> Area of a Square](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) - Solution: [return_pyramids.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/return_pyramids.c)
 1. [<8 kyu> Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) - Solution: [convert_string_to_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/convert_string_to_array.c)
 1. [<8 kyu> Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97) - Solution: [cuboids_volumes_difference.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cuboids_volumes_difference.c)
 1. [<8 kyu> DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) - Solution: [dna_to_rna_conversion.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/dna_to_rna_conversion.c)
