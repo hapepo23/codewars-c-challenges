@@ -20,6 +20,14 @@ int main(void) {
     submitted = NULL;
   }
   {
+    char* expected = " /\\\n/__\\\n";
+    char* submitted = pyramid(2);
+    printf("n = %d\nExpected:\n%s\nSubmitted:\n%s\n->%s\n\n", 2, expected,
+           submitted, strcmp(expected, submitted) == 0 ? "OK" : "FAIL");
+    free(submitted);
+    submitted = NULL;
+  }
+  {
     char* expected = "   /\\\n  /  \\\n /    \\\n/______\\\n";
     char* submitted = pyramid(4);
     printf("n = %d\nExpected:\n%s\nSubmitted:\n%s\n->%s\n\n", 4, expected,
