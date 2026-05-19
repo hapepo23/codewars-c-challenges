@@ -41,6 +41,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<2 kyu> Optical character recognition](https://www.codewars.com/kata/5ec9e176721b990029ebce83) - Solution: [ocr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ocr.c)
 1. [<3 kyu> Divide integers as strings](https://www.codewars.com/kata/58dea43ff98a7e2124000169) - Solution: [divide_number_strings.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/divide_number_strings.c)
 1. [<3 kyu> Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) - Solution: [make_spiral.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/make_spiral.c)
+1. [<3 kyu> Prime Streaming (PG-13)](https://www.codewars.com/kata/5519a584a73e70fa570005f5) - Solution: [prime_streaming.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/prime_streaming.c)
 1. [<4 kyu> 4 By 4 Skyscrapers](https://www.codewars.com/kata/5671d975d81d6c1c87000022) - Solution: [skyscrapers_4x4_puzzle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/skyscrapers_4x4_puzzle.c)
 1. [<4 kyu> Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21) - Solution: [adding_big_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/adding_big_numbers.c)
 1. [<4 kyu> Counting Change Combinations](https://www.codewars.com/kata/541af676b589989aed0009e7) - Solution: [counting_change_combinations.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/counting_change_combinations.c)
