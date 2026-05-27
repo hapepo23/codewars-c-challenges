@@ -131,6 +131,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) - Solution: [find_parity_outlier.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_parity_outlier.c)
 1. [<6 kyu> Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) - Solution: [find_the_unique_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_unique_number.c)
 1. [<6 kyu> Fun with lists: countIf](https://www.codewars.com/kata/5819081d056d4bdd410004f8) - Solution: [fun_with_lists_countif.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fun_with_lists_countif.c)
+1. [<6 kyu> Fun with lists: filter](https://www.codewars.com/kata/582041237df353e01d000084) - Solution: [fun_with_lists_filter.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fun_with_lists_filter.c)
 1. [<6 kyu> IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006) - Solution: [is_valid_ip.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_valid_ip.c)
 1. [<6 kyu> Irreducible Sum of Rationals](https://www.codewars.com/kata/5517fcb0236c8826940003c9) - Solution: [irreducible_sum_of_rationals.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/irreducible_sum_of_rationals.c)
 1. [<6 kyu> Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) - Solution: [is_prime.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_prime.c)
