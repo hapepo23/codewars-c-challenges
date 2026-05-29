@@ -120,6 +120,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Array Exchange](https://www.codewars.com/kata/5353212e5ee40d4694001114) - Solution: [array_exchange.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_exchange.c)
 1. [<6 kyu> Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3) - Solution: [strclr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/strclr.c)
 1. [<6 kyu> Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) - Solution: [bit_counting.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/bit_counting.c)
+1. [<6 kyu> Bomb has been planted!](https://www.codewars.com/kata/6621b92d6d4e8800178449f5) - Solution: [bomb_has_been_planted.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/bomb_has_been_planted.c)
 1. [<6 kyu> Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) - Solution: [build_tower.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/build_tower.c)
 1. [<6 kyu> CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196) - Solution: [string_to_camel_case.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_to_camel_case.c)
 1. [<6 kyu> Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091) - Solution: [count_characters.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_characters.c)
