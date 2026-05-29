@@ -22,5 +22,7 @@ int main(void) {
   do_test(4, 5);
   do_test(5, 7);
   do_test(10, 42);
+  do_test(250, 230793554364681LL);
+  do_test(400, 6727090051741041926LL);
   return 0;
 }
