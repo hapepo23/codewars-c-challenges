@@ -47,6 +47,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<4 kyu> Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21) - Solution: [adding_big_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/adding_big_numbers.c)
 1. [<4 kyu> Counting Change Combinations](https://www.codewars.com/kata/541af676b589989aed0009e7) - Solution: [counting_change_combinations.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/counting_change_combinations.c)
 1. [<4 kyu> Escape the maze](https://www.codewars.com/kata/5877027d885d4f6144000404) - Solution: [escape_the_maze.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/escape_the_maze.c)
+1. [<4 kyu> Explosive Sum](https://www.codewars.com/kata/52ec24228a515e620b0005ef) - Solution: [explosive_sum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/explosive_sum.c)
 1. [<4 kyu> Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a) - Solution: [format_duration.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/format_duration.c)
 1. [<4 kyu> Large Factorials](https://www.codewars.com/kata/557f6437bf8dcdd135000010) - Solution: [large_factorials.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/large_factorials.c)
 1. [<4 kyu> Matrix Determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c) - Solution: [determinant.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/determinant.c)
