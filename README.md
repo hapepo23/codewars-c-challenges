@@ -152,6 +152,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Rotate matrix counter - clockwise N - times!](https://www.codewars.com/kata/5919f3bf6589022915000023) - Solution: [rotate_matrix_counter_clockwise.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/rotate_matrix_counter_clockwise.c)
 1. [<6 kyu> Run-length encoding](https://www.codewars.com/kata/546dba39fa8da224e8000467) - Solution: [run_length_encoding.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/run_length_encoding.c)
 1. [<6 kyu> Sentence Calculator](https://www.codewars.com/kata/5970fce80ed776b94000008b) - Solution: [letters_to_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/letters_to_numbers.c)
+1. [<6 kyu> Simple card game](https://www.codewars.com/kata/53417de006654f4171000587) - Solution: [simple_card_game.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/simple_card_game.c)
 1. [<6 kyu> Simple time difference](https://www.codewars.com/kata/5b76a34ff71e5de9db0000f2) - Solution: [simple_time_difference.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/simple_time_difference.c)
 1. [<6 kyu> Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) - Solution: [sort_the_odd.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sort_the_odd.c)
 1. [<6 kyu> Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) - Solution: [spin_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/spin_words.c)
