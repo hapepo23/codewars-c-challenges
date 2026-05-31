@@ -127,6 +127,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) - Solution: [counting_duplicates.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/counting_duplicates.c)
 1. [<6 kyu> Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) - Solution: [create_phone_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/create_phone_number.c)
 1. [<6 kyu> Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e) - Solution: [decode_morse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/decode_morse.c)
+1. [<6 kyu> Derivatives of type x^n](https://www.codewars.com/kata/55e2de13b668981d3300003d) - Solution: [derivatives.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/derivatives.c)
 1. [<6 kyu> Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) - Solution: [detect_pangram.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/detect_pangram.c)
 1. [<6 kyu> Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) - Solution: [equal_sides_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/equal_sides_of_array.c)
 1. [<6 kyu> Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) - Solution: [find_the_odd_int.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_odd_int.c)
