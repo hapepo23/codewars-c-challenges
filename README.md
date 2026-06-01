@@ -162,6 +162,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> The Deaf Rats of Hamelin](https://www.codewars.com/kata/598106cb34e205e074000031) - Solution: [the_deaf_rats_of_hamelin.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_deaf_rats_of_hamelin.c)
 1. [<6 kyu> Transform To Prime](https://www.codewars.com/kata/5a946d9fba1bb5135100007c) - Solution: [transform_to_prime.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/transform_to_prime.c)
 1. [<6 kyu> Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) - Solution: [valid_braces.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/valid_braces.c)
+1. [<6 kyu> WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d) - Solution: [weird_string_case.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/weird_string_case.c)
 1. [<6 kyu> Well efficiency calculator](https://www.codewars.com/kata/5649b9f069dacef88400005e) - Solution: [well_efficiency_calculator.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/well_efficiency_calculator.c)
 1. [<6 kyu> Which day of the week does this date fall on?](https://www.codewars.com/kata/6908e2f710e75a2349b0e75b) - Solution: [find_date.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_date.c)
 1. [<6 kyu> Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) - Solution: [who_likes_it.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/who_likes_it.c)
