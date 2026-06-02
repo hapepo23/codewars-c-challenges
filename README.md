@@ -160,6 +160,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) - Solution: [spin_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/spin_words.c)
 1. [<6 kyu> Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) - Solution: [digital_root.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/digital_root.c)
 1. [<6 kyu> Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) - Solution: [ten_minutes_walk.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ten_minutes_walk.c)
+1. [<6 kyu> Telepathy](https://www.codewars.com/kata/64ad571aa33413003e712168) - Solution: [telepathy.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/telepathy.c)
 1. [<6 kyu> The Deaf Rats of Hamelin](https://www.codewars.com/kata/598106cb34e205e074000031) - Solution: [the_deaf_rats_of_hamelin.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_deaf_rats_of_hamelin.c)
 1. [<6 kyu> The lost beginning](https://www.codewars.com/kata/659af96994b858db10e1675f) - Solution: [the_lost_beginning.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_lost_beginning.c)
 1. [<6 kyu> Transform To Prime](https://www.codewars.com/kata/5a946d9fba1bb5135100007c) - Solution: [transform_to_prime.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/transform_to_prime.c)
