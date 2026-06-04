@@ -136,6 +136,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) - Solution: [find_the_odd_int.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_odd_int.c)
 1. [<6 kyu> Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) - Solution: [find_parity_outlier.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_parity_outlier.c)
 1. [<6 kyu> Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) - Solution: [find_the_unique_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_unique_number.c)
+1. [<6 kyu> For whom the Bell tolls](https://www.codewars.com/kata/62665d43e67fbaf7b37212d2) - Solution: [for_whom_the_bell_tolls.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/for_whom_the_bell_tolls.c)
 1. [<6 kyu> Fruit Machine](https://www.codewars.com/kata/590adadea658017d90000039) - Solution: [fruit_machine.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fruit_machine.c)
 1. [<6 kyu> Fun with lists: countIf](https://www.codewars.com/kata/5819081d056d4bdd410004f8) - Solution: [fun_with_lists_countif.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fun_with_lists_countif.c)
 1. [<6 kyu> Fun with lists: filter](https://www.codewars.com/kata/582041237df353e01d000084) - Solution: [fun_with_lists_filter.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fun_with_lists_filter.c)
