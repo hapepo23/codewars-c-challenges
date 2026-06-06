@@ -159,6 +159,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Sentence Calculator](https://www.codewars.com/kata/5970fce80ed776b94000008b) - Solution: [letters_to_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/letters_to_numbers.c)
 1. [<6 kyu> Simple card game](https://www.codewars.com/kata/53417de006654f4171000587) - Solution: [simple_card_game.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/simple_card_game.c)
 1. [<6 kyu> Simple time difference](https://www.codewars.com/kata/5b76a34ff71e5de9db0000f2) - Solution: [simple_time_difference.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/simple_time_difference.c)
+1. [<6 kyu> Singly Linked List - Swap Nodes](https://www.codewars.com/kata/58d91d5f024c724b50000300) - Solution: [singly_linked_list_swap_nodes.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/singly_linked_list_swap_nodes.c)
 1. [<6 kyu> Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) - Solution: [sort_the_odd.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sort_the_odd.c)
 1. [<6 kyu> Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) - Solution: [spin_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/spin_words.c)
 1. [<6 kyu> Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) - Solution: [digital_root.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/digital_root.c)
