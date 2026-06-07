@@ -184,6 +184,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Array Leaders](https://www.codewars.com/kata/5a651865fd56cb55760000e0) - Solution: [array_leaders.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_leaders.c)
 1. [<7 kyu> Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139) - Solution: [binary_addition.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/binary_addition.c)
 1. [<7 kyu> Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) - Solution: [categorize_new_member.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/categorize_new_member.c)
+1. [<7 kyu> Combining Ratios](https://www.codewars.com/kata/69e3d400196a47ceacde554f) - Solution: [combining_ratios.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/combining_ratios.c)
 1. [<7 kyu> Consecutive Vowels in a String](https://www.codewars.com/kata/62a933d6d6deb7001093de16) - Solution: [get_the_vowels.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_the_vowels.c)
 1. [<7 kyu> Count of codepoints in a UTF-8 string](https://www.codewars.com/kata/68b8e7f8ce76e77dcfb77e8a) - Solution: [count_codepoints.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_codepoints.c)
 1. [<7 kyu> Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) - Solution: [maskify.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maskify.c)
