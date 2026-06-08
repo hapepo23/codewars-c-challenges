@@ -39,6 +39,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<2 kyu> Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005) - Solution: [eval_math_expression.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/eval_math_expression.c)
 1. [<2 kyu> Integer Square Root](https://www.codewars.com/kata/58a3fa665973c2a6e80000c4) - Solution: [integer_sqrt.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/integer_sqrt.c)
 1. [<2 kyu> Optical character recognition](https://www.codewars.com/kata/5ec9e176721b990029ebce83) - Solution: [ocr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ocr.c)
+1. [<2 kyu> Simpler Interactive Interpreter](https://www.codewars.com/kata/53005a7b26d12be55c000243) - Solution: [simpler_interactive_interpreter.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/simpler_interactive_interpreter.c)
 1. [<3 kyu> Divide integers as strings](https://www.codewars.com/kata/58dea43ff98a7e2124000169) - Solution: [divide_number_strings.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/divide_number_strings.c)
 1. [<3 kyu> Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027) - Solution: [last_digit_of_huge_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/last_digit_of_huge_number.c)
 1. [<3 kyu> Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) - Solution: [make_spiral.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/make_spiral.c)
