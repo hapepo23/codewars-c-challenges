@@ -4,6 +4,11 @@ Evaluate mathematical expression
 https://www.codewars.com/kata/52a78825cdfc2cfc87000005
 */
 
+// ---- First solution ----
+// Convert expression to RPN with Shunting yard algorithm
+// Execute RPN entries and calculate result
+
+/*
 #include <math.h>
 #include <stdbool.h>
 #include <stdio.h>
@@ -325,4 +330,87 @@ double calculate(const char* expression) {
     printf("Stack Count @ end = %d = %s\n%s\n", rpn_ex_stack.count,
            rpn_ex_stack.count == 1 ? "OK" : "ERROR", expression);
   return rpn_ex_stack.data[0];
+}
+
+*/
+
+// ---- Second (much better) solution ----
+
+#include <ctype.h>
+#include <stdbool.h>
+#include <stdlib.h>
+#include <string.h>
+
+static const char* str;
+static size_t pos;
+static size_t strsize;
+
+static double parseFactor();
+static double parseTerm();
+static double parseExpression();
+static void skipSpaces();
+
+static double parseFactor() {
+  skipSpaces();
+  if (pos < strsize && str[pos] == '-') {
+    pos++;
+    return -parseFactor();
+  }
+  if (pos < strsize && str[pos] == '(') {
+    pos++;
+    double value = parseExpression();
+    skipSpaces();
+    pos++;
+    return value;
+  }
+  char* pend;
+  double value = strtod(str + pos, &pend);
+  pos = pend - str;
+  return value;
+}
+
+static double parseTerm() {
+  double value = parseFactor();
+  while (true) {
+    skipSpaces();
+    if (pos < strsize && (str[pos] == '*' || str[pos] == '/')) {
+      char op = str[pos++];
+      double rhs = parseFactor();
+      if (op == '*')
+        value *= rhs;
+      else
+        value /= rhs;
+    } else
+      break;
+  }
+  return value;
+}
+
+static double parseExpression() {
+  double value = parseTerm();
+  while (true) {
+    skipSpaces();
+    if (pos < strsize && (str[pos] == '+' || str[pos] == '-')) {
+      char op = str[pos++];
+      double rhs = parseTerm();
+      if (op == '+')
+        value += rhs;
+      else
+        value -= rhs;
+    } else
+      break;
+  }
+  return value;
+}
+
+static void skipSpaces() {
+  while (pos < strsize && isspace(str[pos]))
+    pos++;
+}
+
+double calculate(const char* expression) {
+  pos = 0;
+  strsize = strlen(expression);
+  str = expression;
+  return parseExpression();
 }
