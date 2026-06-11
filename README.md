@@ -171,6 +171,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> The Deaf Rats of Hamelin](https://www.codewars.com/kata/598106cb34e205e074000031) - Solution: [the_deaf_rats_of_hamelin.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_deaf_rats_of_hamelin.c)
 1. [<6 kyu> The lost beginning](https://www.codewars.com/kata/659af96994b858db10e1675f) - Solution: [the_lost_beginning.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_lost_beginning.c)
 1. [<6 kyu> Transform To Prime](https://www.codewars.com/kata/5a946d9fba1bb5135100007c) - Solution: [transform_to_prime.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/transform_to_prime.c)
+1. [<6 kyu> Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) - Solution: [two_sum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/two_sum.c)
 1. [<6 kyu> Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) - Solution: [valid_braces.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/valid_braces.c)
 1. [<6 kyu> WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d) - Solution: [weird_string_case.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/weird_string_case.c)
 1. [<6 kyu> Well efficiency calculator](https://www.codewars.com/kata/5649b9f069dacef88400005e) - Solution: [well_efficiency_calculator.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/well_efficiency_calculator.c)
