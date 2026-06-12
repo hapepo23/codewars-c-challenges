@@ -34,4 +34,5 @@ int main(void) {
   do_test("C-c?e", 1);
   do_test("38iYHn21TeQf", 4);
   do_test("c5AB.!mDG8xK95rmTOj", 5);
+  return 0;
 }

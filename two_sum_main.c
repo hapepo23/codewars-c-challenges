@@ -52,4 +52,5 @@ int main(void) {
     int numbers[] = {2, 2, 3}, expected[] = {0, 1};
     doTest(ARR_LEN(numbers), numbers, expected);
   }
+  return 0;
 }
