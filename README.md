@@ -201,6 +201,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Fun with lists: length](https://www.codewars.com/kata/581e476d5f59408553000a4b) - Solution: [fun_with_lists_length.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fun_with_lists_length.c)
 1. [<7 kyu> Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) - Solution: [get_middle_character.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_middle_character.c)
 1. [<7 kyu> Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) - Solution: [high_and_low.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/high_and_low.c)
+1. [<7 kyu> How Many Lonely Letters?](https://www.codewars.com/kata/69cda5b85599f307742ce70a) - Solution: [how_many_lonely_letters.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/how_many_lonely_letters.c)
 1. [<7 kyu> Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b) - Solution: [is_triangle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_triangle.c)
 1. [<7 kyu> Maximum Gap](https://www.codewars.com/kata/5a7893ef0025e9eb50000013) - Solution: [maximum_gap.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maximum_gap.c)
 1. [<7 kyu> Maximum Product](https://www.codewars.com/kata/5a4138acf28b82aa43000117) - Solution: [maximum_product.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maximum_product.c)
