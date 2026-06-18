@@ -184,6 +184,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746) - Solution: [word_a10n.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/word_a10n.c)
 1. [<6 kyu> Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245) - Solution: [expanded_form.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/expanded_form.c)
 1. [<6 kyu> Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) - Solution: [order_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/order_words.c)
+1. [<6 kyu> zipWith](https://www.codewars.com/kata/5825792ada030e9601000782) - Solution: [zip_with.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/zip_with.c)
 1. [<7 kyu> Adding Arrays](https://www.codewars.com/kata/59778cb1b061e877c50000cc) - Solution: [adding_arrays.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/adding_arrays.c)
 1. [<7 kyu> Alphabetically ordered](https://www.codewars.com/kata/5a8059b1fd577709860000f6) - Solution: [is_ordered.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_ordered.c)
 1. [<7 kyu> Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) - Solution: [is_anagram.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_anagram.c)
