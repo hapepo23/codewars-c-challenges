@@ -219,6 +219,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Product Array](https://www.codewars.com/kata/5a905c2157c562994900009d) - Solution: [product_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/product_array.c)
 1. [<7 kyu> Product Of Maximums Of Array](https://www.codewars.com/kata/5a63948acadebff56f000018) - Solution: [product_of_maximums_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/product_of_maximums_of_array.c)
 1. [<7 kyu> Quadrant Split Sum](https://www.codewars.com/kata/6a08841ec8545c42e410b34a) - Solution: [quadrant_split_sum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/quadrant_split_sum.c)
+1. [<7 kyu> Retrieve The N-th String Term](https://www.codewars.com/kata/66ca80460f2a3f128a865cc5) - Solution: [retrieve_nth_string_term.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/retrieve_nth_string_term.c)
 1. [<7 kyu> Return pyramids](https://www.codewars.com/kata/5a1c28f9c9fc0ef2e900013b) - Solution: [return_pyramids.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/return_pyramids.c)
 1. [<7 kyu> Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) - Solution: [reverse_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_words.c)
 1. [<7 kyu> Row Weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9) - Solution: [row_weights.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/row_weights.c)
