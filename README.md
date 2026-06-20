@@ -149,6 +149,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006) - Solution: [is_valid_ip.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_valid_ip.c)
 1. [<6 kyu> Irreducible Sum of Rationals](https://www.codewars.com/kata/5517fcb0236c8826940003c9) - Solution: [irreducible_sum_of_rationals.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/irreducible_sum_of_rationals.c)
 1. [<6 kyu> Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) - Solution: [is_prime.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_prime.c)
+1. [<6 kyu> Letter triangles](https://www.codewars.com/kata/635e70f47dadea004acb5663) - Solution: [letter_triangles.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/letter_triangles.c)
 1. [<6 kyu> Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f) - Solution: [matrix_addition.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/matrix_addition.c)
 1. [<6 kyu> Matrix Transpose](https://www.codewars.com/kata/52fba2a9adcd10b34300094c) - Solution: [transpose_matrix.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/transpose_matrix.c)
 1. [<6 kyu> Missing Angle](https://www.codewars.com/kata/58417e9ab9c25c774500001f) - Solution: [missing_angle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/missing_angle.c)
