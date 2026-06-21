@@ -240,5 +240,6 @@ The code I released here into the public domain may appear in third-party projec
 1. [<8 kyu> Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96) - Solution: [bonus_time.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/bonus_time.c)
 1. [<8 kyu> Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) - Solution: [grasshopper_summation.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/grasshopper_summation.c)
 1. [<8 kyu> Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) - Solution: [string_reverse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_reverse.c)
+1. [<8 kyu> Was the package received before it was sent?](https://www.codewars.com/kata/6707688c0f597511f6649270) - Solution: [was_package_received_yesterday.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/was_package_received_yesterday.c)
 
 -----
