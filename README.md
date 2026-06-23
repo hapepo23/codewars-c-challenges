@@ -122,6 +122,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3) - Solution: [strclr.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/strclr.c)
 1. [<6 kyu> Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) - Solution: [bit_counting.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/bit_counting.c)
 1. [<6 kyu> Bomb has been planted!](https://www.codewars.com/kata/6621b92d6d4e8800178449f5) - Solution: [bomb_has_been_planted.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/bomb_has_been_planted.c)
+1. [<6 kyu> Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) - Solution: [break_camelcase.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/break_camelcase.c)
 1. [<6 kyu> Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) - Solution: [build_tower.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/build_tower.c)
 1. [<6 kyu> CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196) - Solution: [string_to_camel_case.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_to_camel_case.c)
 1. [<6 kyu> Cantor's pairing function](https://www.codewars.com/kata/543b9113def6343e43000875) - Solution: [cantor_pairing_function.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cantor_pairing_function.c)
