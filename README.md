@@ -78,6 +78,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<5 kyu> Count IP Addresses](https://www.codewars.com/kata/526989a41034285187000de4) - Solution: [count_ip_addresses.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_ip_addresses.c)
 1. [<5 kyu> Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) - Solution: [directions_reduction.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/directions_reduction.c)
 1. [<5 kyu> Factorial decomposition](https://www.codewars.com/kata/5a045fee46d843effa000070) - Solution: [factorial_decomposition.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/factorial_decomposition.c)
+1. [<5 kyu> First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb) - Solution: [first_variation_on_caesar_cipher.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/first_variation_on_caesar_cipher.c)
 1. [<5 kyu> Grab CSV Columns](https://www.codewars.com/kata/5276c0f3f4bfbd5aae0001ad) - Solution: [grab_csv_columns.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/grab_csv_columns.c)
 1. [<5 kyu> Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4) - Solution: [greed_is_good.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/greed_is_good.c)
 1. [<5 kyu> Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7) - Solution: [human_readable_time.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/human_readable_time.c)
