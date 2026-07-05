@@ -202,6 +202,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Count of codepoints in a UTF-8 string](https://www.codewars.com/kata/68b8e7f8ce76e77dcfb77e8a) - Solution: [count_codepoints.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_codepoints.c)
 1. [<7 kyu> Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) - Solution: [maskify.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maskify.c)
 1. [<7 kyu> Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f) - Solution: [evaporator.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/evaporator.c)
+1. [<7 kyu> Find the calculation type](https://www.codewars.com/kata/5aca48db188ab3558e0030fa) - Solution: [find_the_calculation_type.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_calculation_type.c)
 1. [<7 kyu> Find the median](https://www.codewars.com/kata/5864eb8039c5ab9cd400005c) - Solution: [find_the_median.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_median.c)
 1. [<7 kyu> Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) - Solution: [next_perfect_square.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/next_perfect_square.c)
 1. [<7 kyu> First Fibonacci](https://www.codewars.com/kata/6965d769930fb2eff921668f) - Solution: [first_fibonacci.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/first_fibonacci.c)
