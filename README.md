@@ -131,6 +131,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Cogs Gearnetwork](https://www.codewars.com/kata/6a1170dbe815a63a8eabd1d4) - Solution: [cogs_gearnetwork.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cogs_gearnetwork.c)
 1. [<6 kyu> Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091) - Solution: [count_characters.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_characters.c)
 1. [<6 kyu> Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) - Solution: [counting_duplicates.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/counting_duplicates.c)
+1. [<6 kyu> C overloading](https://www.codewars.com/kata/625eb7850e2c2f000eca370c) - Solution: [c_overloading.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/c_overloading.c)
 1. [<6 kyu> Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) - Solution: [create_phone_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/create_phone_number.c)
 1. [<6 kyu> Cuckoo Clock](https://www.codewars.com/kata/656e4602ee72af0017e37e82) - Solution: [cuckoo_clock.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cuckoo_clock.c)
 1. [<6 kyu> Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e) - Solution: [decode_morse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/decode_morse.c)
