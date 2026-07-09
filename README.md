@@ -198,6 +198,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139) - Solution: [binary_addition.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/binary_addition.c)
 1. [<7 kyu> Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) - Solution: [categorize_new_member.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/categorize_new_member.c)
 1. [<7 kyu> Chain me](https://www.codewars.com/kata/54fb853b2c8785dd5e000957) - Solution: [chain_me.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/chain_me.c)
+1. [<7 kyu> Color to Grayscale](https://www.codewars.com/kata/649c4012aaad69003f1299c1) - Solution: [color_to_grayscale.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/color_to_grayscale.c)
 1. [<7 kyu> Combining Ratios](https://www.codewars.com/kata/69e3d400196a47ceacde554f) - Solution: [combining_ratios.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/combining_ratios.c)
 1. [<7 kyu> Consecutive Vowels in a String](https://www.codewars.com/kata/62a933d6d6deb7001093de16) - Solution: [get_the_vowels.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_the_vowels.c)
 1. [<7 kyu> Count all the sheep on farm in the heights of New Zealand](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010) - Solution: [count_lost_sheep.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_lost_sheep.c)
