@@ -15,7 +15,7 @@ typedef struct {
 void rgb_to_grayscale(const char* color, char* grayscale) {
   rgb c;
   sscanf(color, "#%02x%02x%02x", &c.r, &c.g, &c.b);
-  double gd = (int)c.r * 0.299 + (int)c.g * 0.587 + (int)c.b * 0.114 + 0.5;
+  double gd = c.r * 0.299 + c.g * 0.587 + c.b * 0.114 + 0.5;
   int g = LIMIT_0_255((int)gd);
   sprintf(grayscale, "#%02X%02X%02X", g, g, g);
 }
