@@ -126,6 +126,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) - Solution: [break_camelcase.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/break_camelcase.c)
 1. [<6 kyu> Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) - Solution: [build_tower.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/build_tower.c)
 1. [<6 kyu> CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196) - Solution: [string_to_camel_case.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_to_camel_case.c)
+1. [<6 kyu> Canal Management](https://www.codewars.com/kata/61c1ffd793863e002c1e42b5) - Solution: [canal_management.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/canal_management.c)
 1. [<6 kyu> Cantor's pairing function](https://www.codewars.com/kata/543b9113def6343e43000875) - Solution: [cantor_pairing_function.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cantor_pairing_function.c)
 1. [<6 kyu> Can You OOP in C? - Information Hiding](https://www.codewars.com/kata/5a2b86ce1f7f7052b800006d) - Solution: [oop_in_c_information_hiding.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/oop_in_c_information_hiding.c)
 1. [<6 kyu> Cogs Gearnetwork](https://www.codewars.com/kata/6a1170dbe815a63a8eabd1d4) - Solution: [cogs_gearnetwork.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cogs_gearnetwork.c)
