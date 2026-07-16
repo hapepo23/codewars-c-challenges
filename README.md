@@ -253,6 +253,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) - Solution: [sum_two_smallest_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sum_two_smallest_numbers.c)
 1. [<7 kyu> TV Remote](https://www.codewars.com/kata/5a5032f4fd56cb958e00007a) - Solution: [tv_remote.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/tv_remote.c)
 1. [<7 kyu> Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) - Solution: [longest.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/longest.c)
+1. [<7 kyu> Validate a PIN code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132) - Solution: [validate_pin_code.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/validate_pin_code.c)
 1. [<7 kyu> Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) - Solution: [get_count.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_count.c)
 1. [<8 kyu> Area of a Square](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) - Solution: [area_of_a_square.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/area_of_a_square.c)
 1. [<8 kyu> Collinearity](https://www.codewars.com/kata/65ba420888906c1f86e1e680) - Solution: [collinearity.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/collinearity.c)
