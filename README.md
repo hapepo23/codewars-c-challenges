@@ -235,6 +235,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b) - Solution: [is_triangle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_triangle.c)
 1. [<7 kyu> Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) - Solution: [jaden_casing_strings.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/jaden_casing_strings.c)
 1. [<7 kyu> Love vs friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016) - Solution: [love_vs_friendship.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/love_vs_friendship.c)
+1. [<7 kyu> Make acronym](https://www.codewars.com/kata/57a60bad72292d3e93000a5a) - Solution: [make_acronym.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/make_acronym.c)
 1. [<7 kyu> Maximum Gap](https://www.codewars.com/kata/5a7893ef0025e9eb50000013) - Solution: [maximum_gap.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maximum_gap.c)
 1. [<7 kyu> Maximum Product](https://www.codewars.com/kata/5a4138acf28b82aa43000117) - Solution: [maximum_product.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maximum_product.c)
 1. [<7 kyu> Maximum Triplet Sum](https://www.codewars.com/kata/5aa1bcda373c2eb596000112) - Solution: [maximum_triplet_sum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maximum_triplet_sum.c)
