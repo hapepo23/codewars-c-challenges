@@ -253,6 +253,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Shortest direction on circle](https://www.codewars.com/kata/686fd320adc800ab627089c2) - Solution: [shortest_direction_on_circle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/shortest_direction_on_circle.c)
 1. [<7 kyu> Simple string reversal II](https://www.codewars.com/kata/5a8d1c82373c2e099d0000ac) - Solution: [reverse_between.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_between.c)
 1. [<7 kyu> Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) - Solution: [sort_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sort_numbers.c)
+1. [<7 kyu> Split by Mask](https://www.codewars.com/kata/6a68ed7894f29599a1f7a248) - Solution: [split_by_mask.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/split_by_mask.c)
 1. [<7 kyu> Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) - Solution: [square_digits.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/square_digits.c)
 1. [<7 kyu> Stalin Sort](https://www.codewars.com/kata/699af631058f5c12b04f4efe) - Solution: [stalin_sort.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/stalin_sort.c)
 1. [<7 kyu> String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) - Solution: [string_ends_with.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_ends_with.c)
