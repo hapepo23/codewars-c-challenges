@@ -223,6 +223,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Find The Corrupted Hex Byte](https://www.codewars.com/kata/6a54d3e91e9fb16ca31cc912) - Solution: [find_corrupted_hex_byte.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_corrupted_hex_byte.c)
 1. [<7 kyu> Find the median](https://www.codewars.com/kata/5864eb8039c5ab9cd400005c) - Solution: [find_the_median.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_median.c)
 1. [<7 kyu> Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) - Solution: [next_perfect_square.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/next_perfect_square.c)
+1. [<7 kyu> Find the stray number](https://www.codewars.com/kata/57f609022f4d534f05000024) - Solution: [find_the_stray_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_stray_number.c)
 1. [<7 kyu> First Fibonacci](https://www.codewars.com/kata/6965d769930fb2eff921668f) - Solution: [first_fibonacci.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/first_fibonacci.c)
 1. [<7 kyu> Form The Minimum](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) - Solution: [form_the_minimum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/form_the_minimum.c)
 1. [<7 kyu> From A to Z](https://www.codewars.com/kata/6512b3775bf8500baea77663) - Solution: [from_a_to_z.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/from_a_to_z.c)
