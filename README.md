@@ -267,6 +267,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<8 kyu> Area of a Square](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) - Solution: [area_of_a_square.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/area_of_a_square.c)
 1. [<8 kyu> Collinearity](https://www.codewars.com/kata/65ba420888906c1f86e1e680) - Solution: [collinearity.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/collinearity.c)
 1. [<8 kyu> Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) - Solution: [convert_string_to_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/convert_string_to_array.c)
+1. [<8 kyu> Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) - Solution: [counting_sheep.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/counting_sheep.c)
 1. [<8 kyu> Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97) - Solution: [cuboids_volumes_difference.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cuboids_volumes_difference.c)
 1. [<8 kyu> DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) - Solution: [dna_to_rna_conversion.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/dna_to_rna_conversion.c)
 1. [<8 kyu> Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96) - Solution: [bonus_time.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/bonus_time.c)
