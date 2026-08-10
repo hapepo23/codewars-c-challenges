@@ -206,6 +206,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) - Solution: [order_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/order_words.c)
 1. [<6 kyu> zipWith](https://www.codewars.com/kata/5825792ada030e9601000782) - Solution: [zip_with.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/zip_with.c)
 1. [<7 kyu> Adding Arrays](https://www.codewars.com/kata/59778cb1b061e877c50000cc) - Solution: [adding_arrays.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/adding_arrays.c)
+1. [<7 kyu> All Star Code Challenge #16](https://www.codewars.com/kata/586566b773bd9cbe2b000013) - Solution: [first_letter_that_appears_only_once.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/first_letter_that_appears_only_once.c)
 1. [<7 kyu> Alphabetically ordered](https://www.codewars.com/kata/5a8059b1fd577709860000f6) - Solution: [is_ordered.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_ordered.c)
 1. [<7 kyu> Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) - Solution: [is_anagram.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_anagram.c)
 1. [<7 kyu> Array Leaders](https://www.codewars.com/kata/5a651865fd56cb55760000e0) - Solution: [array_leaders.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_leaders.c)
