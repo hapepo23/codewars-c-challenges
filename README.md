@@ -280,6 +280,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<8 kyu> Do you speak "English"?](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058) - Solution: [do_you_speak_english.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/do_you_speak_english.c)
 1. [<8 kyu> Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) - Solution: [grasshopper_summation.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/grasshopper_summation.c)
 1. [<8 kyu> Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) - Solution: [string_reverse.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_reverse.c)
+1. [<8 kyu> To square(root) or not to square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627) - Solution: [to_square_root_or_not.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/to_square_root_or_not.c)
 1. [<8 kyu> Was the package received before it was sent?](https://www.codewars.com/kata/6707688c0f597511f6649270) - Solution: [was_package_received_yesterday.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/was_package_received_yesterday.c)
 
 -----
