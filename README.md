@@ -268,6 +268,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) - Solution: [sum_two_smallest_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sum_two_smallest_numbers.c)
 1. [<7 kyu> Triangle area](https://www.codewars.com/kata/59bd84b8a0640e7c49002398) - Solution: [triangle_area.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/triangle_area.c)
 1. [<7 kyu> TV Remote](https://www.codewars.com/kata/5a5032f4fd56cb958e00007a) - Solution: [tv_remote.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/tv_remote.c)
+1. [<7 kyu> Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001) - Solution: [two_oldest_ages.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/two_oldest_ages.c)
 1. [<7 kyu> Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) - Solution: [longest.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/longest.c)
 1. [<7 kyu> Validate a PIN code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132) - Solution: [validate_pin_code.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/validate_pin_code.c)
 1. [<7 kyu> Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) - Solution: [get_count.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_count.c)
