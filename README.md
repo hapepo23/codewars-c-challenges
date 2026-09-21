@@ -213,6 +213,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Alphabetically ordered](https://www.codewars.com/kata/5a8059b1fd577709860000f6) - Solution: [is_ordered.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_ordered.c)
 1. [<7 kyu> Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) - Solution: [is_anagram.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_anagram.c)
 1. [<7 kyu> Array Leaders](https://www.codewars.com/kata/5a651865fd56cb55760000e0) - Solution: [array_leaders.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_leaders.c)
+1. [<7 kyu> BAD Hash - String to Int](https://www.codewars.com/kata/596d93bd9b6a5df4de000049) - Solution: [bad_hash.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/bad_hash.c)
 1. [<7 kyu> Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139) - Solution: [binary_addition.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/binary_addition.c)
 1. [<7 kyu> Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) - Solution: [categorize_new_member.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/categorize_new_member.c)
 1. [<7 kyu> Chain me](https://www.codewars.com/kata/54fb853b2c8785dd5e000957) - Solution: [chain_me.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/chain_me.c)
