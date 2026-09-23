@@ -222,6 +222,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Cogs 2](https://www.codewars.com/kata/59e72bdcfc3c4974190000d9) - Solution: [cogs_2.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cogs_2.c)
 1. [<7 kyu> Color to Grayscale](https://www.codewars.com/kata/649c4012aaad69003f1299c1) - Solution: [color_to_grayscale.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/color_to_grayscale.c)
 1. [<7 kyu> Combining Ratios](https://www.codewars.com/kata/69e3d400196a47ceacde554f) - Solution: [combining_ratios.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/combining_ratios.c)
+1. [<7 kyu> Computing the entropy of a message](https://www.codewars.com/kata/6925ba5fcee28ebed6e18e7d) - Solution: [message_entropy.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/message_entropy.c)
 1. [<7 kyu> Consecutive Vowels in a String](https://www.codewars.com/kata/62a933d6d6deb7001093de16) - Solution: [get_the_vowels.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/get_the_vowels.c)
 1. [<7 kyu> Count all the sheep on farm in the heights of New Zealand](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010) - Solution: [count_lost_sheep.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_lost_sheep.c)
 1. [<7 kyu> Count of codepoints in a UTF-8 string](https://www.codewars.com/kata/68b8e7f8ce76e77dcfb77e8a) - Solution: [count_codepoints.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_codepoints.c)
