@@ -189,6 +189,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Singly Linked List - Swap Nodes](https://www.codewars.com/kata/58d91d5f024c724b50000300) - Solution: [singly_linked_list_swap_nodes.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/singly_linked_list_swap_nodes.c)
 1. [<6 kyu> Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) - Solution: [sort_the_odd.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sort_the_odd.c)
 1. [<6 kyu> Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) - Solution: [spin_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/spin_words.c)
+1. [<6 kyu> String searching with wildcard](https://www.codewars.com/kata/546c7f89bed2e12fb300056f) - Solution: [string_searching_with_wildcard.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_searching_with_wildcard.c)
 1. [<6 kyu> Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) - Solution: [digital_root.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/digital_root.c)
 1. [<6 kyu> Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) - Solution: [ten_minutes_walk.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ten_minutes_walk.c)
 1. [<6 kyu> Telepathy](https://www.codewars.com/kata/64ad571aa33413003e712168) - Solution: [telepathy.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/telepathy.c)
