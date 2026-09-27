@@ -163,6 +163,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Fun with lists: countIf](https://www.codewars.com/kata/5819081d056d4bdd410004f8) - Solution: [fun_with_lists_countif.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fun_with_lists_countif.c)
 1. [<6 kyu> Fun with lists: filter](https://www.codewars.com/kata/582041237df353e01d000084) - Solution: [fun_with_lists_filter.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fun_with_lists_filter.c)
 1. [<6 kyu> Fun with lists: map](https://www.codewars.com/kata/58259d9062cfb45e1a00006b) - Solution: [fun_with_lists_map.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fun_with_lists_map.c)
+1. [<6 kyu> Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) - Solution: [give_me_a_diamond.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/give_me_a_diamond.c)
 1. [<6 kyu> How many pages in a book?](https://www.codewars.com/kata/622de76d28bf330057cd6af8) - Solution: [how_many_pages_in_a_book.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/how_many_pages_in_a_book.c)
 1. [<6 kyu> If you can read this...](https://www.codewars.com/kata/586538146b56991861000293) - Solution: [if_you_can_read_this.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/if_you_can_read_this.c)
 1. [<6 kyu> IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006) - Solution: [is_valid_ip.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_valid_ip.c)
