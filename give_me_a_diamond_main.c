@@ -12,10 +12,14 @@ char* diamond(int n);
 
 static void do_test(int n, const char* expected) {
   char* actual = diamond(n);
-  printf("For n = %d, expected:\n%s\nactual:\n%s\n", n, expected, actual);
-  if (expected == NULL && actual == NULL)
-    printf("-> OK\n\n");
-  else if (expected != NULL && actual != NULL) {
+  printf("For n = %d\n", n);
+  if (actual == NULL) {
+    if (expected == NULL)
+      printf("-> OK\n\n");
+    else
+      printf("-> FAIL\n\n");
+  } else if (expected) {
+    printf("expected:\n%s\nactual:\n%s\n", expected, actual);
     if (strcmp(actual, expected) == 0)
       printf("-> OK\n\n");
     else

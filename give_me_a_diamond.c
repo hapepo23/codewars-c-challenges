@@ -17,7 +17,7 @@ static void repeat_char(char* dest, int num, char c, int* pos) {
 char* diamond(int n) {
   if (n <= 0 || n % 2 == 0)
     return NULL;
-  char* result = calloc((n + 1) * n, sizeof(char));
+  char* result = calloc((n + 1) * n + 1, sizeof(char));
   int pos = 0;
   for (int i = 1; i < n; i += 2) {
     repeat_char(result, (n - i) / 2, ' ', &pos);
