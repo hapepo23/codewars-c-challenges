@@ -7,7 +7,7 @@ https://www.codewars.com/kata/5803753aab6c2099e600000e
 #include <stdio.h>
 #include <time.h>
 
-int gregorian_calendar_to_jd(int y, int m, int d) {
+static int gregorian_calendar_to_jd(int y, int m, int d) {
   y += 8000;
   if (m < 3) {
     y--;
