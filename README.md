@@ -139,6 +139,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Convert ISBN-10 to ISBN-13](https://www.codewars.com/kata/61ce25e92ca4fb000f689fb0) - Solution: [convert_isbn10_to_isbn13.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/convert_isbn10_to_isbn13.c)
 1. [<6 kyu> Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091) - Solution: [count_characters.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_characters.c)
 1. [<6 kyu> Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) - Solution: [counting_duplicates.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/counting_duplicates.c)
+1. [<6 kyu> Count words](https://www.codewars.com/kata/56b3b27cadd4ad275500000c) - Solution: [count_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_words.c)
 1. [<6 kyu> C overloading](https://www.codewars.com/kata/625eb7850e2c2f000eca370c) - Solution: [c_overloading.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/c_overloading.c)
 1. [<6 kyu> Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) - Solution: [create_phone_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/create_phone_number.c)
 1. [<6 kyu> Cuckoo Clock](https://www.codewars.com/kata/656e4602ee72af0017e37e82) - Solution: [cuckoo_clock.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/cuckoo_clock.c)
