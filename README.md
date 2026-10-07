@@ -243,6 +243,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Find the stray number](https://www.codewars.com/kata/57f609022f4d534f05000024) - Solution: [find_the_stray_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/find_the_stray_number.c)
 1. [<7 kyu> First Fibonacci](https://www.codewars.com/kata/6965d769930fb2eff921668f) - Solution: [first_fibonacci.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/first_fibonacci.c)
 1. [<7 kyu> Form The Minimum](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) - Solution: [form_the_minimum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/form_the_minimum.c)
+1. [<7 kyu> Frequency sequence](https://www.codewars.com/kata/585a033e3a36cdc50a00011c) - Solution: [frequency_sequence.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/frequency_sequence.c)
 1. [<7 kyu> From A to Z](https://www.codewars.com/kata/6512b3775bf8500baea77663) - Solution: [from_a_to_z.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/from_a_to_z.c)
 1. [<7 kyu> Fun with lists: anyMatch + allMatch](https://www.codewars.com/kata/581e50555f59405743001813) - Solution: [fun_with_lists_anymatch_allmatch.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fun_with_lists_anymatch_allmatch.c)
 1. [<7 kyu> Fun with lists: indexOf](https://www.codewars.com/kata/581c6b075cfa83852700021f) - Solution: [fun_with_lists_indexof.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/fun_with_lists_indexof.c)
