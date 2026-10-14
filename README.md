@@ -208,6 +208,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Triple trouble](https://www.codewars.com/kata/55d5434f269c0c3f1b000058) - Solution: [triple_trouble.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/triple_trouble.c)
 1. [<6 kyu> T.T.T.17: Split odd and even](https://www.codewars.com/kata/57a2ab1abb994466910003af) - Solution: [split_odd_and_even.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/split_odd_and_even.c)
 1. [<6 kyu> Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) - Solution: [two_sum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/two_sum.c)
+1. [<6 kyu> Unix Time Stamp](https://www.codewars.com/kata/66c0c135a364f5b9e286c7b5) - Solution: [unix_time_stamp.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/unix_time_stamp.c)
 1. [<6 kyu> Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) - Solution: [valid_braces.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/valid_braces.c)
 1. [<6 kyu> Valid Phone Number](https://www.codewars.com/kata/525f47c79f2f25a4db000025) - Solution: [valid_phone_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/valid_phone_number.c)
 1. [<6 kyu> WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d) - Solution: [weird_string_case.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/weird_string_case.c)
