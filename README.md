@@ -73,6 +73,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<5 kyu> Beeramid](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1) - Solution: [beeramid.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/beeramid.c)
 1. [<5 kyu> Big Integer Modulo](https://www.codewars.com/kata/546e0773fa8da2013200087a) - Solution: [big_integer_modulo.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/big_integer_modulo.c)
 1. [<5 kyu> Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe) - Solution: [blackjack_scorer.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/blackjack_scorer.c)
+1. [<5 kyu> Calculate the derivative of a polynomial](https://www.codewars.com/kata/56d060d90f9408fb3b000b03) - Solution: [derivative_of_polynomial.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/derivative_of_polynomial.c)
 1. [<5 kyu> Common Denominators](https://www.codewars.com/kata/54d7660d2daf68c619000d95) - Solution: [common_denominators.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/common_denominators.c)
 1. [<5 kyu> Convert A Hex String To RGB](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7) - Solution: [hex_string_to_rgb.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/hex_string_to_rgb.c)
 1. [<5 kyu> Count IP Addresses](https://www.codewars.com/kata/526989a41034285187000de4) - Solution: [count_ip_addresses.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_ip_addresses.c)
