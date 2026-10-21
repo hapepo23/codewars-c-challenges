@@ -68,6 +68,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<4 kyu> Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) - Solution: [sum_of_intervals.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sum_of_intervals.c)
 1. [<4 kyu> Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370) - Solution: [sum_number_strings.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sum_number_strings.c)
 1. [<4 kyu> The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d) - Solution: [the_observed_pin.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_observed_pin.c)
+1. [<5 kyu> A Brave New Wordle](https://www.codewars.com/kata/62013b174c72240016600e60) - Solution: [brave_new_wordle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/brave_new_wordle.c)
 1. [<5 kyu> Base64 Encoding](https://www.codewars.com/kata/5270f22f862516c686000161) - Solution: [base64.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/base64.c)
 1. [<5 kyu> Base64 Numeric Translator](https://www.codewars.com/kata/5632e12703e2037fa7000061) - Solution: [base64_numeric_translator.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/base64_numeric_translator.c)
 1. [<5 kyu> Beeramid](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1) - Solution: [beeramid.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/beeramid.c)
