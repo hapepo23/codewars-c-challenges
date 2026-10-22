@@ -123,6 +123,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<5 kyu> Write out numbers](https://www.codewars.com/kata/52724507b149fa120600031d) - Solution: [write_out_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/write_out_numbers.c)
 1. [<5 kyu> Write your own printf](https://www.codewars.com/kata/59480c92e3102df28f0000dd) - Solution: [your_own_printf.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/your_own_printf.c)
 1. [<5 kyu> Zonk game](https://www.codewars.com/kata/53837b8c94c170e55f000811) - Solution: [zonk_game.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/zonk_game.c)
+1. [<6 kyu> +1 Array](https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9) - Solution: [plus_one_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/plus_one_array.c)
 1. [<6 kyu> Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) - Solution: [array_diff.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_diff.c)
 1. [<6 kyu> Array Exchange](https://www.codewars.com/kata/5353212e5ee40d4694001114) - Solution: [array_exchange.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/array_exchange.c)
 1. [<6 kyu> Ascend, Descend, Repeat?](https://www.codewars.com/kata/62ca07aaedc75c88fb95ee2f) - Solution: [ascend_descend_repeat.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ascend_descend_repeat.c)
