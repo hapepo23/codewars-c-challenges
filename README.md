@@ -283,6 +283,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Return pyramids](https://www.codewars.com/kata/5a1c28f9c9fc0ef2e900013b) - Solution: [return_pyramids.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/return_pyramids.c)
 1. [<7 kyu> Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) - Solution: [reverse_words.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_words.c)
 1. [<7 kyu> Row Weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9) - Solution: [row_weights.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/row_weights.c)
+1. [<7 kyu> Shift Left](https://www.codewars.com/kata/5bdc191306a8a678f6000187) - Solution: [shift_left.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/shift_left.c)
 1. [<7 kyu> Shortest direction on circle](https://www.codewars.com/kata/686fd320adc800ab627089c2) - Solution: [shortest_direction_on_circle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/shortest_direction_on_circle.c)
 1. [<7 kyu> Simple string reversal II](https://www.codewars.com/kata/5a8d1c82373c2e099d0000ac) - Solution: [reverse_between.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_between.c)
 1. [<7 kyu> Smart Log Formatter](https://www.codewars.com/kata/6ab3da4db0d8c965cd93923e) - Solution: [smart_log_formatter.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/smart_log_formatter.c)
