@@ -17,7 +17,7 @@ My solutions to some [**Codewars challenges**](https://www.codewars.com/users/br
 - Current C rank (since February 1, 2026): 2 kyu.
 - Codewars Leaderboard Position: < #2,000
 - Codewars Honor Percentile: < 0.26 %
-- Total Completed Codewars Kata: > 500
+- Total Completed Codewars Kata: > 500, in C: see below
 
 -----
 
