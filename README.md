@@ -14,7 +14,10 @@
 
 My solutions to some [**Codewars challenges**](https://www.codewars.com/users/briskwalker), programmed in **C**, might not be the most sophisticated, but at least mostly easy to read and understand. However, a few are implemented rather poorly. 
 
-Current C rank (since February 1, 2026): 2 kyu.
+- Current C rank (since February 1, 2026): 2 kyu.
+- Codewars Leaderboard Position: < #2,000
+- Codewars Honor Percentile: < 0.26 %
+- Total Completed Codewars Kata: > 500
 
 -----
 
