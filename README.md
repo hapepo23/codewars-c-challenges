@@ -251,6 +251,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Count the Combinations](https://www.codewars.com/kata/58e67378fd2d897b8a000110) - Solution: [count_the_combinations.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/count_the_combinations.c)
 1. [<7 kyu> Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) - Solution: [maskify.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maskify.c)
 1. [<7 kyu> Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f) - Solution: [evaporator.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/evaporator.c)
+1. [<7 kyu> Disk scheduling algorithms: SSTF](https://www.codewars.com/kata/63e50629be9fe90024f3a749) - Solution: [disk_scheduling_algorithms_sstf.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/disk_scheduling_algorithms_sstf.c)
 1. [<7 kyu> Don't give me five!](https://www.codewars.com/kata/5813d19765d81c592200001a) - Solution: [dont_give_me_five.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/dont_give_me_five.c)
 1. [<7 kyu> Even and Odd!](https://www.codewars.com/kata/594adadee075005308000122) - Solution: [even_and_odd.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/even_and_odd.c)
 1. [<7 kyu> Every possible sum of two digits](https://www.codewars.com/kata/5b4e474305f04bea11000148) - Solution: [every_possible_sum_of_two_digits.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/every_possible_sum_of_two_digits.c)
