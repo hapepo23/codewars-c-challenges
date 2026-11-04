@@ -194,6 +194,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Non-even substrings](https://www.codewars.com/kata/59da47fa27ee00a8b90000b4) - Solution: [non_even_substrings.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/non_even_substrings.c)
 1. [<6 kyu> Number Zoo Patrol](https://www.codewars.com/kata/5276c18121e20900c0000235) - Solution: [number_zoo_patrol.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/number_zoo_patrol.c)
 1. [<6 kyu> Pine's Deaf Grandma](https://www.codewars.com/kata/572b82bf4903c13b1b001079) - Solution: [deaf_grandma.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/deaf_grandma.c)
+1. [<6 kyu> Plus or Minus](https://www.codewars.com/kata/65f8279c265f42003ffbd931) - Solution: [plus_or_minus.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/plus_or_minus.c)
 1. [<6 kyu> Rectangle letter juggling](https://www.codewars.com/kata/60d6f2653cbec40007c92755) - Solution: [rectangle_letter_juggling.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/rectangle_letter_juggling.c)
 1. [<6 kyu> Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) - Solution: [alphabet_position.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/alphabet_position.c)
 1. [<6 kyu> Reverse a singly-linked list](https://www.codewars.com/kata/57262ca48565846f33001365) - Solution: [reverse_linked_list.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/reverse_linked_list.c)
