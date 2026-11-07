@@ -220,6 +220,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> The Deaf Rats of Hamelin](https://www.codewars.com/kata/598106cb34e205e074000031) - Solution: [the_deaf_rats_of_hamelin.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_deaf_rats_of_hamelin.c)
 1. [<6 kyu> The lost beginning](https://www.codewars.com/kata/659af96994b858db10e1675f) - Solution: [the_lost_beginning.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_lost_beginning.c)
 1. [<6 kyu> The most common letter](https://www.codewars.com/kata/5a434a9dc5e284724f000011) - Solution: [the_most_common_letter.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_most_common_letter.c)
+1. [<6 kyu> The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) - Solution: [the_supermarket_queue.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/the_supermarket_queue.c)
 1. [<6 kyu> Transform To Prime](https://www.codewars.com/kata/5a946d9fba1bb5135100007c) - Solution: [transform_to_prime.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/transform_to_prime.c)
 1. [<6 kyu> Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) - Solution: [tribonacci_sequence.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/tribonacci_sequence.c)
 1. [<6 kyu> Triple trouble](https://www.codewars.com/kata/55d5434f269c0c3f1b000058) - Solution: [triple_trouble.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/triple_trouble.c)
