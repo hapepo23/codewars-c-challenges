@@ -190,6 +190,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f) - Solution: [matrix_addition.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/matrix_addition.c)
 1. [<6 kyu> Matrix Rotation](https://www.codewars.com/kata/593e978a3bb47a8308000b8f) - Solution: [matrix_rotation.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/matrix_rotation.c)
 1. [<6 kyu> Matrix Transpose](https://www.codewars.com/kata/52fba2a9adcd10b34300094c) - Solution: [transpose_matrix.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/transpose_matrix.c)
+1. [<6 kyu> Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6) - Solution: [maze_runner.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maze_runner.c)
 1. [<6 kyu> Missing Angle](https://www.codewars.com/kata/58417e9ab9c25c774500001f) - Solution: [missing_angle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/missing_angle.c)
 1. [<6 kyu> Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) - Solution: [multiples_of_3_or_5.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/multiples_of_3_or_5.c)
 1. [<6 kyu> Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) - Solution: [multiplication_table.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/multiplication_table.c)
