@@ -16,8 +16,6 @@ static void do_test(ullong input, ullong expected) {
          actual, expected == actual ? "OK" : "FAIL");
 }
 
-#define N 7
-
 int main(void) {
   do_test(1ULL, 11ULL);
   do_test(11ULL, 21ULL);

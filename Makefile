@@ -1,7 +1,7 @@
 CC      = gcc
 # CFLAGS  = -std=c18 -Wall -Wextra -O0 -g
 CFLAGS  = -std=c18 -Wall -Wextra -O2
-LDLIBS  = -lm
+LDLIBS  = -lm -lsqlite3
 TARGETS = $(patsubst %_main.c,%,$(wildcard *_main.c))
 
 .PHONY: all clean reformat run vrun
