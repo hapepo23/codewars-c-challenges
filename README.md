@@ -291,6 +291,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Maximum Triplet Sum](https://www.codewars.com/kata/5aa1bcda373c2eb596000112) - Solution: [maximum_triplet_sum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/maximum_triplet_sum.c)
 1. [<7 kyu> Mew Cipher](https://www.codewars.com/kata/671bd5419ea261fbb8d0a0ca) - Solution: [mew_cipher.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/mew_cipher.c)
 1. [<7 kyu> Minimize Sum Of Array](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) - Solution: [minimize_sum_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/minimize_sum_of_array.c)
+1. [<7 kyu> Monotone travel](https://www.codewars.com/kata/54466996990c921f90000d61) - Solution: [monotone_travel.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/monotone_travel.c)
 1. [<7 kyu> Most Likely](https://www.codewars.com/kata/56644a421b7c94c622000056) - Solution: [most_likely.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/most_likely.c)
 1. [<7 kyu> Nth Smallest Element](https://www.codewars.com/kata/5a512f6a80eba857280000fc) - Solution: [nth_smallest_element.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/nth_smallest_element.c)
 1. [<7 kyu> Password entropy](https://www.codewars.com/kata/6a1f03fac18f58f98ad9d21a) - Solution: [password_entropy.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/password_entropy.c)
