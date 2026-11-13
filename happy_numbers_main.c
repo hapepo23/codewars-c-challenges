@@ -22,5 +22,6 @@ int main(void) {
   tester(16, false);
   tester(64, false);
   tester(145, false);
+  tester(2026, true);
   return 0;
 }
