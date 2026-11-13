@@ -179,6 +179,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) - Solution: [give_me_a_diamond.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/give_me_a_diamond.c)
 1. [<6 kyu> Grill it!](https://www.codewars.com/kata/595b3f0ad26b2d817400002a) - Solution: [grill_it.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/grill_it.c)
 1. [<6 kyu> Guess the number!](https://www.codewars.com/kata/5452113c699b538c18000b01) - Solution: [guess_the_number.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/guess_the_number.c)
+1. [<6 kyu> Happy numbers](https://www.codewars.com/kata/5464cbfb1e0c08e9b3000b3e) - Solution: [happy_numbers.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/happy_numbers.c)
 1. [<6 kyu> How many pages in a book?](https://www.codewars.com/kata/622de76d28bf330057cd6af8) - Solution: [how_many_pages_in_a_book.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/how_many_pages_in_a_book.c)
 1. [<6 kyu> If you can read this...](https://www.codewars.com/kata/586538146b56991861000293) - Solution: [if_you_can_read_this.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/if_you_can_read_this.c)
 1. [<6 kyu> I Liked the SQL Better...](https://www.codewars.com/kata/53d2c97d7152a59b64001033) - Solution: [create_sqlite_db.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/create_sqlite_db.c)
