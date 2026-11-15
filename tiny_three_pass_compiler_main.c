@@ -59,8 +59,8 @@ static int test_count;
 static void test(const char* program, const int* args, int expected) {
   char* assembly = compile(program);
   int actual = simulate(assembly, args);
-  printf("%-40s expected: %d  actual: %d  %s\n", program, expected, actual,
-         actual == expected ? "OK" : "FAILED");
+  printf("%s | expected: %d | actual: %d -> %s\n", program, expected, actual,
+         actual == expected ? "OK" : "FAIL");
   assert(actual == expected);
   free(assembly);
   test_count++;
