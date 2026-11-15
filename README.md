@@ -38,6 +38,7 @@ The code I released here into the public domain may appear in third-party projec
 ### List of all challenges I solved in C
 
 1. [<1 kyu> 7×7 Skyscrapers](https://www.codewars.com/kata/5917a2205ffc30ec3a0000a8) - Solution: [skyscrapers_7x7_puzzle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/skyscrapers_7x7_puzzle.c)
+1. [<1 kyu> Tiny Three-Pass Compiler](https://www.codewars.com/kata/5265b0885fda8eac5900093b) - Solution: [tiny_three_pass_compiler.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/tiny_three_pass_compiler.c)
 1. [<2 kyu> 6 By 6 Skyscrapers](https://www.codewars.com/kata/5679d5a3f2272011d700000d) - Solution: [skyscrapers_6x6_puzzle.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/skyscrapers_6x6_puzzle.c)
 1. [<2 kyu> Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005) - Solution: [eval_math_expression.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/eval_math_expression.c)
 1. [<2 kyu> Integer Square Root](https://www.codewars.com/kata/58a3fa665973c2a6e80000c4) - Solution: [integer_sqrt.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/integer_sqrt.c)
