@@ -40,6 +40,18 @@ AST* Bin(enum op op, AST* a, AST* b) {
 }
 
 // --------------------------------------------------
+// Free AST
+// --------------------------------------------------
+
+static void free_ast(AST* ast) {
+  if (!ast)
+    return;
+  free_ast(ast->a);
+  free_ast(ast->b);
+  free(ast);
+}
+
+// --------------------------------------------------
 // Tokenizer
 // --------------------------------------------------
 
@@ -196,7 +208,11 @@ AST* pass2(AST* ast) {
     default:
       return ast;
   }
-  return Imm(result);
+  AST* folded = Imm(result);
+  free(ast->a);
+  free(ast->b);
+  free(ast);
+  return folded;
 }
 
 // --------------------------------------------------
@@ -278,5 +294,9 @@ char* pass3(AST* ast) {
 // --------------------------------------------------
 
 char* compile(const char* program) {
-  return pass3(pass2(pass1(program)));
+  AST* ast = pass1(program);
+  ast = pass2(ast);
+  char* result = pass3(ast);
+  free_ast(ast);
+  return result;  // must be freed by the caller
 }
