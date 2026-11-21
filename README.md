@@ -188,6 +188,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Irreducible Sum of Rationals](https://www.codewars.com/kata/5517fcb0236c8826940003c9) - Solution: [irreducible_sum_of_rationals.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/irreducible_sum_of_rationals.c)
 1. [<6 kyu> Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) - Solution: [is_prime.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_prime.c)
 1. [<6 kyu> Is it an isogram?](https://www.codewars.com/kata/586d79182e8d9cfaba0000f1) - Solution: [is_isogram.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/is_isogram.c)
+1. [<6 kyu> Knight's Reach](https://www.codewars.com/kata/6afde4830e68b231e3fd1c26) - Solution: [knights_reach.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/knights_reach.c)
 1. [<6 kyu> Letter triangles](https://www.codewars.com/kata/635e70f47dadea004acb5663) - Solution: [letter_triangles.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/letter_triangles.c)
 1. [<6 kyu> Locate P using 3 Points and their distances to P](https://www.codewars.com/kata/6326533f8b7445002e856ca3) - Solution: [trilateration_2d.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/trilateration_2d.c)
 1. [<6 kyu> Longest 2-character substring](https://www.codewars.com/kata/55bc0c54147a98798f00003e) - Solution: [longest_two_character_substring.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/longest_two_character_substring.c)
