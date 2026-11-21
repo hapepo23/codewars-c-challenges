@@ -192,6 +192,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> Letter triangles](https://www.codewars.com/kata/635e70f47dadea004acb5663) - Solution: [letter_triangles.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/letter_triangles.c)
 1. [<6 kyu> Locate P using 3 Points and their distances to P](https://www.codewars.com/kata/6326533f8b7445002e856ca3) - Solution: [trilateration_2d.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/trilateration_2d.c)
 1. [<6 kyu> Longest 2-character substring](https://www.codewars.com/kata/55bc0c54147a98798f00003e) - Solution: [longest_two_character_substring.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/longest_two_character_substring.c)
+1. [<6 kyu> Manhattan Distance](https://www.codewars.com/kata/52998bf8caa22d98b800003a) - Solution: [manhattan_distance.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/manhattan_distance.c)
 1. [<6 kyu> Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f) - Solution: [matrix_addition.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/matrix_addition.c)
 1. [<6 kyu> Matrix Rotation](https://www.codewars.com/kata/593e978a3bb47a8308000b8f) - Solution: [matrix_rotation.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/matrix_rotation.c)
 1. [<6 kyu> Matrix Transpose](https://www.codewars.com/kata/52fba2a9adcd10b34300094c) - Solution: [transpose_matrix.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/transpose_matrix.c)
