@@ -221,6 +221,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<6 kyu> String searching with wildcard](https://www.codewars.com/kata/546c7f89bed2e12fb300056f) - Solution: [string_searching_with_wildcard.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/string_searching_with_wildcard.c)
 1. [<6 kyu> Sum of a Sequence [Hard-Core Version]](https://www.codewars.com/kata/587a88a208236efe8500008b) - Solution: [sequence_sum.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sequence_sum.c)
 1. [<6 kyu> Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) - Solution: [digital_root.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/digital_root.c)
+1. [<6 kyu> Take a Number And Sum Its Digits Raised To The Consecutive Powers](https://www.codewars.com/kata/5626b561280a42ecc50000d1) - Solution: [sum_digit_power.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/sum_digit_power.c)
 1. [<6 kyu> Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) - Solution: [ten_minutes_walk.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/ten_minutes_walk.c)
 1. [<6 kyu> Telepathy](https://www.codewars.com/kata/64ad571aa33413003e712168) - Solution: [telepathy.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/telepathy.c)
 1. [<6 kyu> TGI Friday!!](https://www.codewars.com/kata/5a0d6d8c6975982b5b000383) - Solution: [tgi_friday.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/tgi_friday.c)
