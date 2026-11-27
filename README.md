@@ -350,5 +350,6 @@ The code I released here into the public domain may appear in third-party projec
 1. [<8 kyu> Switch it Up!](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) - Solution: [switch_it_up.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/switch_it_up.c)
 1. [<8 kyu> To square(root) or not to square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627) - Solution: [to_square_root_or_not.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/to_square_root_or_not.c)
 1. [<8 kyu> Was the package received before it was sent?](https://www.codewars.com/kata/6707688c0f597511f6649270) - Solution: [was_package_received_yesterday.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/was_package_received_yesterday.c)
+1. [<8 kyu> Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212) - Solution: [well_of_ideas.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/well_of_ideas.c)
 
 -----
