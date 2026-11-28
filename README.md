@@ -302,6 +302,7 @@ The code I released here into the public domain may appear in third-party projec
 1. [<7 kyu> Minimize Sum Of Array](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) - Solution: [minimize_sum_of_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/minimize_sum_of_array.c)
 1. [<7 kyu> Monotone travel](https://www.codewars.com/kata/54466996990c921f90000d61) - Solution: [monotone_travel.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/monotone_travel.c)
 1. [<7 kyu> Most Likely](https://www.codewars.com/kata/56644a421b7c94c622000056) - Solution: [most_likely.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/most_likely.c)
+1. [<7 kyu> Move 10](https://www.codewars.com/kata/57cf50a7eca2603de0000090) - Solution: [move_10.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/move_10.c)
 1. [<7 kyu> Nth Smallest Element](https://www.codewars.com/kata/5a512f6a80eba857280000fc) - Solution: [nth_smallest_element.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/nth_smallest_element.c)
 1. [<7 kyu> Password entropy](https://www.codewars.com/kata/6a1f03fac18f58f98ad9d21a) - Solution: [password_entropy.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/password_entropy.c)
 1. [<7 kyu> Product Array](https://www.codewars.com/kata/5a905c2157c562994900009d) - Solution: [product_array.c](https://github.com/hapepo23/codewars-c-challenges/blob/master/product_array.c)
